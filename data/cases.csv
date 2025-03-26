@@ -1,0 +1,575 @@
+OBJECTID,Loc_name,Longitud,Latitud,Proceso,Match_addr,Barrio_OSM,Sexo,Edad,Ocupación ,Pertenencia etnica,fec_consulta,ini_sintomas,locationID,county
+117,La Paz,-76.329537,1.119479,Georreferenciado,Nombre del Barrio,La Paz,M,11,9999,6,2018-01-24 00:00:00,2018-01-24 00:00:00,CO:19533,Piamonte
+114,Vereda Trojayaco,-76.273166,0.98408,Georreferenciado,Nombre del Centro Poblado,Trojayaco,M,40,6112,1,2016-01-10 00:00:00,2016-01-07 00:00:00,CO:19533,Piamonte
+123,Villa Los Prados,-76.327719,1.119409,Georreferenciado,Nombre del Barrio,Villa Los Prados,M,4,9999,6,2018-02-09 00:00:00,2018-02-08 00:00:00,CO:19533,Piamonte
+116,La Paz,-76.329537,1.119479,Georreferenciado,Nombre del Barrio,La Paz,F,14,9999,6,2018-02-14 00:00:00,2018-02-10 00:00:00,CO:19533,Piamonte
+133,Villa Los Prados,-76.327719,1.119409,Georreferenciado,Nombre del Barrio,Villa Los Prados,M,7,9999,6,2018-02-09 00:00:00,2018-02-07 00:00:00,CO:19533,Piamonte
+188,Centro Poblado Piamonte,-76.325671,1.117098,Georreferenciado,Nombre del Barrio,Piamonte,F,16,9999,6,2018-02-21 00:00:00,2018-02-19 00:00:00,CO:19533,Piamonte
+126,Villa Los Prados,-76.327719,1.119409,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,16,9999,6,2018-02-20 00:00:00,2018-02-19 00:00:00,CO:19533,Piamonte
+179,Centro,-76.324423,1.116328,Georreferenciado,Nombre del Barrio,Centro,F,17,9999,6,2018-02-19 00:00:00,2018-02-16 00:00:00,CO:19533,Piamonte
+134,Villa Los Prados,-76.327719,1.119409,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,33,9999,6,2018-02-19 00:00:00,2018-01-20 00:00:00,CO:19533,Piamonte
+113,Vereda Playa Rica,-76.222521,1.022627,Georreferenciado,Nombre del Centro Poblado,Playa Rica,M,66,9999,6,2018-02-15 00:00:00,2018-02-12 00:00:00,CO:19533,Piamonte
+178,Centro,-76.324423,1.116328,Georreferenciado,Nombre del Barrio,Centro,F,16,9999,6,2018-02-28 00:00:00,2018-02-25 00:00:00,CO:19533,Piamonte
+184,Centro,-76.324423,1.116328,Georreferenciado,Nombre del Barrio,Centro,M,21,6112,6,2019-02-04 00:00:00,2019-01-30 00:00:00,CO:19533,Piamonte
+158,Fundadores,-76.325077,1.115051,Georreferenciado,Nombre del Barrio,Fundadores,F,27,9999,6,2018-02-26 00:00:00,2018-02-20 00:00:00,CO:19533,Piamonte
+150,Fundadores,-76.325077,1.115051,Georreferenciado,Nombre del Barrio,Fundadores,M,8,9997,6,2018-02-26 00:00:00,2018-02-25 00:00:00,CO:19533,Piamonte
+176,Centro,-76.324423,1.116328,Georreferenciado,Nombre del Barrio,Centro,M,9,9997,6,2018-02-21 00:00:00,2018-02-20 00:00:00,CO:19533,Piamonte
+100,Vereda La Sonora,-76.319376,1.171722,Georreferenciado,Nombre del Centro Poblado,La Sonora,F,14,9997,6,2018-02-18 00:00:00,2018-02-14 00:00:00,CO:19533,Piamonte
+99,Vereda La Sonora,-76.319376,1.171722,Georreferenciado,Nombre del Centro Poblado,La Sonora,M,54,9999,6,2018-03-05 00:00:00,2018-03-02 00:00:00,CO:19533,Piamonte
+101,Vereda La Sonora,-76.319376,1.171722,Georreferenciado,Nombre del Centro Poblado,La Sonora,F,7,9999,6,2018-03-02 00:00:00,2018-03-01 00:00:00,CO:19533,Piamonte
+129,Villa Los Prados,-76.327719,1.119409,Georreferenciado,Nombre del Barrio,Villa Los Prados,M,33,9999,6,2018-03-07 00:00:00,2018-03-06 00:00:00,CO:19533,Piamonte
+127,Villa Los Prados,-76.327719,1.119409,Georreferenciado,Nombre del Barrio,Villa Los Prados,M,14,9999,6,2018-03-05 00:00:00,2018-03-02 00:00:00,CO:19533,Piamonte
+106,Vereda Brasilia,-76.237924,1.073035,Georreferenciado,Nombre del Centro Poblado,Brasilia,M,42,9999,6,2018-03-02 00:00:00,2018-02-28 00:00:00,CO:19533,Piamonte
+177,Centro,-76.324423,1.116328,Georreferenciado,Nombre del Barrio,Centro,F,4,9999,6,2018-03-05 00:00:00,2018-03-03 00:00:00,CO:19533,Piamonte
+121,Villa Los Prados,-76.327719,1.119409,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,29,9999,6,2018-03-05 00:00:00,2018-03-01 00:00:00,CO:19533,Piamonte
+136,Villa Los Prados,-76.327719,1.119409,Georreferenciado,Nombre del Barrio,Villa Los Prados,M,21,9999,6,2018-03-12 00:00:00,2018-03-09 00:00:00,CO:19533,Piamonte
+98,Vereda La Sonora,-76.319376,1.171722,Georreferenciado,Nombre del Centro Poblado,La Sonora,F,34,9999,6,2018-03-12 00:00:00,2018-03-10 00:00:00,CO:19533,Piamonte
+108,Vereda El morro,-76.272017,1.057713,Georreferenciado,Nombre del Centro Poblado,El Morro,F,46,9999,6,2018-04-04 00:00:00,2018-04-02 00:00:00,CO:19533,Piamonte
+103,Vereda San Isidro,-76.382272,1.123567,Georreferenciado,Nombre del Centro Poblado,San Isidro,M,14,9997,6,2018-04-12 00:00:00,2018-04-09 00:00:00,CO:19533,Piamonte
+157,Fundadores,-76.325077,1.115051,Georreferenciado,Nombre del Barrio,Fundadores,F,45,5132,6,2018-04-07 00:00:00,2018-04-07 00:00:00,CO:19533,Piamonte
+160,Fundadores,-76.325077,1.115051,Georreferenciado,Nombre del Barrio,Fundadores,F,14,9999,6,2018-04-05 00:00:00,2018-04-03 00:00:00,CO:19533,Piamonte
+130,Villa Los Prados,-76.327719,1.119409,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,38,9999,1,2018-04-06 00:00:00,2018-04-03 00:00:00,CO:19533,Piamonte
+110,Vereda Villa Lozada,-76.192924,1.041802,Georreferenciado,Nombre del Centro Poblado,Villa Lozada,M,17,6111,6,2018-04-12 00:00:00,2018-04-07 00:00:00,CO:19533,Piamonte
+161,Fundadores,-76.325077,1.115051,Georreferenciado,Nombre del Barrio,Fundadores,F,8,9999,6,2018-04-09 00:00:00,2018-04-08 00:00:00,CO:19533,Piamonte
+159,Fundadores,-76.325077,1.115051,Georreferenciado,Nombre del Barrio,Fundadores,F,68,9996,5,2018-04-16 00:00:00,2018-04-15 00:00:00,CO:19533,Piamonte
+131,Villa Los Prados,-76.327719,1.119409,Georreferenciado,Nombre del Barrio,Villa Los Prados,M,27,6111,1,2018-01-01 00:00:00,2018-01-01 00:00:00,CO:19533,Piamonte
+182,Centro,-76.324423,1.116328,Georreferenciado,Nombre del Barrio,Centro,F,19,9622,5,2018-04-20 00:00:00,2018-04-20 00:00:00,CO:19533,Piamonte
+151,Fundadores,-76.325077,1.115051,Georreferenciado,Nombre del Barrio,Fundadores,M,10,9997,6,2018-04-24 00:00:00,2018-04-24 00:00:00,CO:19533,Piamonte
+183,Centro,-76.324423,1.116328,Georreferenciado,Nombre del Barrio,Centro,M,13,9999,6,2018-04-21 00:00:00,2018-04-20 00:00:00,CO:19533,Piamonte
+152,Fundadores,-76.325077,1.115051,Georreferenciado,Nombre del Barrio,Fundadores,M,7,9997,6,2018-04-24 00:00:00,2018-04-24 00:00:00,CO:19533,Piamonte
+124,Villa Los Prados,-76.327719,1.119409,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,30,6111,6,2018-04-25 00:00:00,2018-04-22 00:00:00,CO:19533,Piamonte
+153,Fundadores,-76.325077,1.115051,Georreferenciado,Nombre del Barrio,Fundadores,F,14,9997,1,2018-05-02 00:00:00,2018-04-28 00:00:00,CO:19533,Piamonte
+97,Vereda La Sonora,-76.319376,1.171722,Georreferenciado,Nombre del Centro Poblado,La Sonora,F,27,9996,6,2018-05-09 00:00:00,2018-05-07 00:00:00,CO:19533,Piamonte
+122,Villa Los Prados,-76.327719,1.119409,Georreferenciado,Nombre del Barrio,Villa Los Prados,M,8,9997,6,2018-05-23 00:00:00,2018-05-23 00:00:00,CO:19533,Piamonte
+156,Fundadores,-76.325077,1.115051,Georreferenciado,Nombre del Barrio,Fundadores,M,62,9999,6,2018-05-28 00:00:00,2018-05-26 00:00:00,CO:19533,Piamonte
+155,Fundadores,-76.325077,1.115051,Georreferenciado,Nombre del Barrio,Fundadores,M,60,6111,6,2018-05-27 00:00:00,2018-05-21 00:00:00,CO:19533,Piamonte
+163,Fundadores,-76.325077,1.115051,Georreferenciado,Nombre del Barrio,Fundadores,M,40,6111,6,2018-06-05 00:00:00,2018-06-04 00:00:00,CO:19533,Piamonte
+162,Fundadores,-76.325077,1.115051,Georreferenciado,Nombre del Barrio,Fundadores,M,56,6112,6,2018-07-04 00:00:00,2018-07-01 00:00:00,CO:19533,Piamonte
+146,Los Nogales,-76.32774,1.120888,Georreferenciado,Nombre del Barrio,Los Nogales,F,12,9997,1,2018-06-27 00:00:00,2018-06-22 00:00:00,CO:19533,Piamonte
+128,Villa Los Prados,-76.327719,1.119409,Georreferenciado,Nombre del Barrio,Villa Los Prados,M,12,9997,6,2018-07-25 00:00:00,2018-07-23 00:00:00,CO:19533,Piamonte
+102,Vereda Nápoles,-76.469013,1.057157,Georreferenciado,Nombre del Centro Poblado,Nápoles,M,15,9997,6,2018-12-11 00:00:00,2018-12-10 00:00:00,CO:19533,Piamonte
+149,Fundadores,-76.325077,1.115051,Georreferenciado,Nombre del Barrio,Fundadores,F,24,9996,6,2018-03-03 00:00:00,2018-03-01 00:00:00,CO:19533,Piamonte
+132,Villa Los Prados,-76.327719,1.119409,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,31,9999,6,2018-03-07 00:00:00,2018-03-04 00:00:00,CO:19533,Piamonte
+180,Centro,-76.324423,1.116328,Georreferenciado,Nombre del Barrio,Centro,M,75,9999,6,2018-03-09 00:00:00,2018-03-05 00:00:00,CO:19533,Piamonte
+154,Fundadores,-76.325077,1.115051,Georreferenciado,Nombre del Barrio,Fundadores,M,14,9997,6,2018-05-07 00:00:00,2018-05-07 00:00:00,CO:19533,Piamonte
+125,Villa Los Prados,-76.327719,1.119409,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,45,2330,6,2018-05-25 00:00:00,2018-05-23 00:00:00,CO:19533,Piamonte
+181,Centro,-76.324423,1.116328,Georreferenciado,Nombre del Barrio,Centro,M,27,9999,6,2018-01-19 00:00:00,2018-01-15 00:00:00,CO:19533,Piamonte
+135,Villa Los Prados,-76.327719,1.119409,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,21,9999,6,2018-02-21 00:00:00,2018-02-16 00:00:00,CO:19533,Piamonte
+137,Villa Los Prados,-76.327719,1.119409,Georreferenciado,Nombre del Barrio,Villa Los Prados,M,8,9999,6,2019-06-11 00:00:00,2019-06-10 00:00:00,CO:19533,Piamonte
+138,Villa Los Prados,-76.327719,1.119409,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,11,9999,6,2019-06-11 00:00:00,2019-06-09 00:00:00,CO:19533,Piamonte
+147,Los Nogales,-76.32774,1.120888,Georreferenciado,Nombre del Barrio,Los Nogales,M,12,9997,6,2019-09-03 00:00:00,2019-09-02 00:00:00,CO:19533,Piamonte
+105,Vereda Puerto Bello,-76.292458,1.142361,Georreferenciado,Nombre del Centro Poblado,Puerto Bello,M,9,9997,6,2019-10-02 00:00:00,2019-10-02 00:00:00,CO:19533,Piamonte
+164,Fundadores,-76.325077,1.115051,Georreferenciado,Nombre del Barrio,Fundadores,F,64,9996,6,2019-10-07 00:00:00,2019-10-06 00:00:00,CO:19533,Piamonte
+139,Villa Los Prados,-76.327719,1.119409,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,3,9999,6,2019-10-21 00:00:00,2019-10-20 00:00:00,CO:19533,Piamonte
+165,Fundadores,-76.325077,1.115051,Georreferenciado,Nombre del Barrio,Fundadores,F,21,9996,6,2019-10-29 00:00:00,2019-10-27 00:00:00,CO:19533,Piamonte
+140,Villa Los Prados,-76.327719,1.119409,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,16,9997,6,2019-11-05 00:00:00,2019-11-03 00:00:00,CO:19533,Piamonte
+143,Villa Los Prados,-76.327719,1.119409,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,39,2342,6,2019-11-07 00:00:00,2019-10-31 00:00:00,CO:19533,Piamonte
+166,Fundadores,-76.325077,1.115051,Georreferenciado,Nombre del Barrio,Fundadores,F,37,2342,6,2019-11-04 00:00:00,2019-11-03 00:00:00,CO:19533,Piamonte
+142,Villa Los Prados,-76.327719,1.119409,Georreferenciado,Nombre del Barrio,Villa Los Prados,M,52,6114,6,2019-11-06 00:00:00,2019-11-03 00:00:00,CO:19533,Piamonte
+111,Vereda San Jorge,-76.289188,1.079611,Georreferenciado,Nombre del Centro Poblado,San Jorge,M,75,9999,6,2019-10-14 00:00:00,2019-10-09 00:00:00,CO:19533,Piamonte
+167,Fundadores,-76.325077,1.115051,Georreferenciado,Nombre del Barrio,Fundadores,F,30,4226,6,2019-11-16 00:00:00,2019-11-16 00:00:00,CO:19533,Piamonte
+189,Centro Poblado Piamonte,-76.325671,1.117098,Georreferenciado,Nombre del Barrio,Piamonte,F,54,9996,6,2019-11-12 00:00:00,2019-11-06 00:00:00,CO:19533,Piamonte
+112,Vereda Yapurá,-76.131115,1.022178,Georreferenciado,Nombre del Centro Poblado,Yapurá,F,59,3221,6,2019-11-19 00:00:00,2019-11-18 00:00:00,CO:19533,Piamonte
+144,Villa Los Prados,-76.327719,1.119409,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,51,9996,6,2019-11-19 00:00:00,2019-11-18 00:00:00,CO:19533,Piamonte
+141,Villa Los Prados,-76.327719,1.119409,Georreferenciado,Nombre del Barrio,Villa Los Prados,M,13,9997,6,2019-11-07 00:00:00,2019-11-05 00:00:00,CO:19533,Piamonte
+171,Fundadores,-76.325077,1.115051,Georreferenciado,Nombre del Barrio,Fundadores,F,45,9996,6,2019-11-27 00:00:00,2019-11-26 00:00:00,CO:19533,Piamonte
+169,Fundadores,-76.325077,1.115051,Georreferenciado,Nombre del Barrio,Fundadores,M,25,1112,6,2019-11-27 00:00:00,2019-11-27 00:00:00,CO:19533,Piamonte
+168,Fundadores,-76.325077,1.115051,Georreferenciado,Nombre del Barrio,Fundadores,F,15,9997,6,2019-11-23 00:00:00,2019-11-23 00:00:00,CO:19533,Piamonte
+170,Fundadores,-76.325077,1.115051,Georreferenciado,Nombre del Barrio,Fundadores,M,39,7112,6,2019-11-30 00:00:00,2019-11-26 00:00:00,CO:19533,Piamonte
+109,Vereda El morro,-76.272017,1.057713,Georreferenciado,Nombre del Centro Poblado,El Morro,M,13,9997,6,2019-11-26 00:00:00,2019-11-25 00:00:00,CO:19533,Piamonte
+145,Villa Los Prados,-76.327719,1.119409,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,35,9996,6,2019-12-02 00:00:00,2019-12-02 00:00:00,CO:19533,Piamonte
+107,Vereda Brasilia,-76.237924,1.073035,Georreferenciado,Nombre del Centro Poblado,Brasilia,F,45,2330,6,2019-12-06 00:00:00,2019-12-06 00:00:00,CO:19533,Piamonte
+172,Fundadores,-76.325077,1.115051,Georreferenciado,Nombre del Barrio,Fundadores,F,15,9997,6,2019-12-11 00:00:00,2019-12-08 00:00:00,CO:19533,Piamonte
+104,Vereda San Isidro,-76.382272,1.123567,Georreferenciado,Nombre del Centro Poblado,San Isidro,F,50,9996,6,2019-12-13 00:00:00,2019-12-12 00:00:00,CO:19533,Piamonte
+118,La Paz,-76.329537,1.119479,Georreferenciado,Nombre del Barrio,La Paz,F,57,9996,6,2019-12-09 00:00:00,2019-12-07 00:00:00,CO:19533,Piamonte
+173,Fundadores,-76.325077,1.115051,Georreferenciado,Nombre del Barrio,Fundadores,F,16,9997,1,2019-12-12 00:00:00,2019-12-12 00:00:00,CO:19533,Piamonte
+185,Centro Poblado Miraflor,-76.438747,1.030025,Georreferenciado,Nombre del Barrio,Miraflor,F,33,2342,6,2019-12-17 00:00:00,2019-12-17 00:00:00,CO:19533,Piamonte
+175,Centro,-76.324423,1.116328,Georreferenciado,Nombre del Barrio,Centro,M,65,8324,6,2017-02-14 00:00:00,2017-02-13 00:00:00,CO:19533,Piamonte
+115,La Paz,-76.329537,1.119479,Georreferenciado,Nombre del Barrio,La Paz,F,18,9996,6,2017-10-29 00:00:00,2017-10-27 00:00:00,CO:19533,Piamonte
+119,Villa Los Prados,-76.327719,1.119409,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,22,5132,6,2017-12-20 00:00:00,2017-12-17 00:00:00,CO:19533,Piamonte
+120,Villa Los Prados,-76.327719,1.119409,Georreferenciado,Nombre del Barrio,Villa Los Prados,M,26,6111,1,2017-12-29 00:00:00,2017-12-27 00:00:00,CO:19533,Piamonte
+186,Centro Poblado Piamonte,-76.325671,1.117098,Georreferenciado,Nombre del Barrio,Piamonte,M,26,230,6,2015-01-20 00:00:00,2015-01-18 00:00:00,CO:19533,Piamonte
+148,Fundadores,-76.325077,1.115051,Georreferenciado,Nombre del Barrio,Fundadores,M,19,9999,1,2015-05-12 00:00:00,2015-05-10 00:00:00,CO:19533,Piamonte
+187,Centro Poblado Piamonte,-76.325671,1.117098,Georreferenciado,Nombre del Barrio,Piamonte,M,12,9997,6,2015-07-28 00:00:00,2015-07-28 00:00:00,CO:19533,Piamonte
+174,Centro,-76.324423,1.116328,Georreferenciado,Nombre del Barrio,Centro,M,8,9998,1,2015-09-09 00:00:00,2015-09-08 00:00:00,CO:19533,Piamonte
+96,Vereda La Sonora,-76.319376,1.171722,Georreferenciado,Nombre del Centro Poblado,La Sonora,F,20,9996,6,2015-10-19 00:00:00,2015-10-17 00:00:00,CO:19533,Piamonte
+38,Centro,-76.326755,1.118145,Georreferenciado,Nombre del Barrio,Centro,F,17,9997,6,2020-01-15 00:00:00,2020-01-12 00:00:00,CO:19533,Piamonte
+39,Centro,-76.326755,1.118145,Georreferenciado,Nombre del Barrio,Centro,F,28,2131,6,2020-06-08 00:00:00,2020-06-05 00:00:00,CO:19533,Piamonte
+40,Centro,-76.326755,1.118145,Georreferenciado,Nombre del Barrio,Centro,M,17,9997,1,2020-07-20 00:00:00,2020-07-20 00:00:00,CO:19533,Piamonte
+41,Centro,-76.326755,1.118145,Georreferenciado,Nombre del Barrio,Centro,M,48,7412,6,2020-07-21 00:00:00,2020-07-21 00:00:00,CO:19533,Piamonte
+42,Centro,-76.326755,1.118145,Georreferenciado,Nombre del Barrio,Centro,F,17,9997,6,2020-01-29 00:00:00,2020-01-29 00:00:00,CO:19533,Piamonte
+43,Centro,-76.326755,1.118145,Georreferenciado,Nombre del Barrio,Centro,F,25,9996,6,2020-01-30 00:00:00,2020-01-30 00:00:00,CO:19533,Piamonte
+44,Centro,-76.326755,1.118145,Georreferenciado,Nombre del Barrio,Centro,M,77,9999,6,2020-02-02 00:00:00,2020-02-01 00:00:00,CO:19533,Piamonte
+45,Centro,-76.326755,1.118145,Georreferenciado,Nombre del Barrio,Centro,M,40,6114,6,2020-02-03 00:00:00,2020-02-03 00:00:00,CO:19533,Piamonte
+46,Centro,-76.326755,1.118145,Georreferenciado,Nombre del Barrio,Centro,F,51,9996,6,2020-02-18 00:00:00,2020-02-15 00:00:00,CO:19533,Piamonte
+47,Centro,-76.326755,1.118145,Georreferenciado,Nombre del Barrio,Centro,F,7,9999,6,2020-02-20 00:00:00,2020-02-17 00:00:00,CO:19533,Piamonte
+48,Centro,-76.326755,1.118145,Georreferenciado,Nombre del Barrio,Centro,M,17,6111,1,2020-03-04 00:00:00,2020-03-04 00:00:00,CO:19533,Piamonte
+49,Centro,-76.326755,1.118145,Georreferenciado,Nombre del Barrio,Centro,F,18,9997,6,2020-12-26 00:00:00,2020-12-26 00:00:00,CO:19533,Piamonte
+50,Centro,-76.326755,1.118145,Georreferenciado,Nombre del Barrio,Centro,M,13,9997,1,2020-09-16 00:00:00,2020-09-14 00:00:00,CO:19533,Piamonte
+51,Centro,-76.326755,1.118145,Georreferenciado,Nombre del Barrio,Centro,F,19,4120,6,2020-02-12 00:00:00,2020-02-11 00:00:00,CO:19533,Piamonte
+52,Fundadores,-76.325075,1.115439,Georreferenciado,Nombre del Barrio,Fundadores,F,4,9997,6,2020-02-26 00:00:00,2020-02-25 00:00:00,CO:19533,Piamonte
+53,Fundadores,-76.325075,1.115439,Georreferenciado,Nombre del Barrio,Fundadores,M,14,9997,6,2020-04-27 00:00:00,2020-04-19 00:00:00,CO:19533,Piamonte
+54,Fundadores,-76.325075,1.115439,Georreferenciado,Nombre del Barrio,Fundadores,F,62,9996,6,2020-01-04 00:00:00,2020-01-01 00:00:00,CO:19533,Piamonte
+55,Fundadores,-76.325075,1.115439,Georreferenciado,Nombre del Barrio,Fundadores,F,20,9997,6,2020-01-11 00:00:00,2020-01-11 00:00:00,CO:19533,Piamonte
+56,Fundadores,-76.325075,1.115439,Georreferenciado,Nombre del Barrio,Fundadores,F,34,5221,6,2020-01-21 00:00:00,2020-01-18 00:00:00,CO:19533,Piamonte
+57,Fundadores,-76.325075,1.115439,Georreferenciado,Nombre del Barrio,Fundadores,F,28,9996,6,2020-01-24 00:00:00,2020-01-19 00:00:00,CO:19533,Piamonte
+58,Fundadores,-76.325075,1.115439,Georreferenciado,Nombre del Barrio,Fundadores,M,59,7111,5,2020-01-27 00:00:00,2020-01-25 00:00:00,CO:19533,Piamonte
+59,Fundadores,-76.325075,1.115439,Georreferenciado,Nombre del Barrio,Fundadores,F,6,9997,6,2020-01-30 00:00:00,2020-01-29 00:00:00,CO:19533,Piamonte
+60,Fundadores,-76.325075,1.115439,Georreferenciado,Nombre del Barrio,Fundadores,F,8,9997,6,2020-01-30 00:00:00,2020-01-29 00:00:00,CO:19533,Piamonte
+61,Fundadores,-76.325075,1.115439,Georreferenciado,Nombre del Barrio,Fundadores,M,13,9997,6,2020-02-08 00:00:00,2020-02-01 00:00:00,CO:19533,Piamonte
+62,Fundadores,-76.325075,1.115439,Georreferenciado,Nombre del Barrio,Fundadores,F,29,3251,6,2020-02-06 00:00:00,2020-02-03 00:00:00,CO:19533,Piamonte
+63,Fundadores,-76.325075,1.115439,Georreferenciado,Nombre del Barrio,Fundadores,F,16,9997,6,2020-02-13 00:00:00,2020-02-11 00:00:00,CO:19533,Piamonte
+64,Fundadores,-76.325075,1.115439,Georreferenciado,Nombre del Barrio,Fundadores,M,12,9997,1,2020-02-19 00:00:00,2020-02-15 00:00:00,CO:19533,Piamonte
+65,Fundadores,-76.325075,1.115439,Georreferenciado,Nombre del Barrio,Fundadores,F,30,9622,6,2020-02-19 00:00:00,2020-02-17 00:00:00,CO:19533,Piamonte
+66,Fundadores,-76.325075,1.115439,Georreferenciado,Nombre del Barrio,Fundadores,F,16,9997,6,2020-03-07 00:00:00,2020-03-06 00:00:00,CO:19533,Piamonte
+67,La Paz,-76.329572,1.119483,Georreferenciado,Nombre del Barrio,La Paz,M,6,9999,6,2020-02-10 00:00:00,2020-02-09 00:00:00,CO:19533,Piamonte
+68,La Paz,-76.329572,1.119483,Georreferenciado,Nombre del Barrio,La Paz,M,49,6113,6,2020-12-18 00:00:00,2020-12-14 00:00:00,CO:19533,Piamonte
+69,Los Nogales,-76.328136,1.120959,Georreferenciado,Nombre del Barrio,Los Nogales,F,14,9997,6,2020-02-03 00:00:00,2020-02-03 00:00:00,CO:19533,Piamonte
+70,Los Nogales,-76.328136,1.120959,Georreferenciado,Nombre del Barrio,Los Nogales,F,38,9996,6,2020-07-24 00:00:00,2020-07-20 00:00:00,CO:19533,Piamonte
+71,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,15,9997,6,2020-01-16 00:00:00,2020-01-04 00:00:00,CO:19533,Piamonte
+72,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,17,6111,6,2020-01-12 00:00:00,2020-01-12 00:00:00,CO:19533,Piamonte
+73,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,83,9996,6,2020-01-15 00:00:00,2020-01-13 00:00:00,CO:19533,Piamonte
+74,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,M,46,6114,6,2020-01-21 00:00:00,2020-01-15 00:00:00,CO:19533,Piamonte
+75,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,9,9997,6,2020-01-21 00:00:00,2020-01-17 00:00:00,CO:19533,Piamonte
+76,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,18,9997,6,2020-01-28 00:00:00,2020-01-21 00:00:00,CO:19533,Piamonte
+77,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,11,9997,6,2020-01-23 00:00:00,2020-01-22 00:00:00,CO:19533,Piamonte
+78,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,M,41,9996,6,2020-01-28 00:00:00,2020-01-27 00:00:00,CO:19533,Piamonte
+79,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,59,9996,5,2020-02-05 00:00:00,2020-01-30 00:00:00,CO:19533,Piamonte
+80,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,17,9997,6,2020-02-03 00:00:00,2020-02-03 00:00:00,CO:19533,Piamonte
+81,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,18,9950,1,2020-02-18 00:00:00,2020-02-12 00:00:00,CO:19533,Piamonte
+82,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,M,24,6114,6,2020-02-14 00:00:00,2020-02-13 00:00:00,CO:19533,Piamonte
+83,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,M,39,5221,1,2020-02-15 00:00:00,2020-02-13 00:00:00,CO:19533,Piamonte
+84,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,28,9996,6,2020-02-18 00:00:00,2020-02-14 00:00:00,CO:19533,Piamonte
+85,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,M,14,9997,6,2020-02-17 00:00:00,2020-02-15 00:00:00,CO:19533,Piamonte
+86,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,6,9997,1,2020-02-18 00:00:00,2020-02-16 00:00:00,CO:19533,Piamonte
+87,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,7,9997,6,2020-02-18 00:00:00,2020-02-17 00:00:00,CO:19533,Piamonte
+88,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,M,34,9622,1,2020-02-24 00:00:00,2020-02-23 00:00:00,CO:19533,Piamonte
+89,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,70,9996,6,2020-03-02 00:00:00,2020-03-02 00:00:00,CO:19533,Piamonte
+90,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,6,9997,6,2020-03-05 00:00:00,2020-03-04 00:00:00,CO:19533,Piamonte
+91,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,M,4,9997,6,2020-03-04 00:00:00,2020-03-04 00:00:00,CO:19533,Piamonte
+92,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,M,35,8322,1,2020-03-23 00:00:00,2020-03-20 00:00:00,CO:19533,Piamonte
+93,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,M,32,6114,6,2020-04-02 00:00:00,2020-03-30 00:00:00,CO:19533,Piamonte
+94,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,64,9996,6,2020-04-18 00:00:00,2020-04-17 00:00:00,CO:19533,Piamonte
+95,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,27,9996,6,2020-12-21 00:00:00,2020-12-17 00:00:00,CO:19533,Piamonte
+0,Centro,-76.326755,1.118145,Georreferenciado,Nombre del Barrio,Centro,M,63,5221,6,2021-04-29 00:00:00,2021-04-21 00:00:00,CO:19533,Piamonte
+1,Centro,-76.326755,1.118145,Georreferenciado,Nombre del Barrio,Centro,F,17,9997,6,2021-05-10 00:00:00,2021-05-04 00:00:00,CO:19533,Piamonte
+2,Centro,-76.326755,1.118145,Georreferenciado,Nombre del Barrio,Centro,M,7,9997,6,2021-05-16 00:00:00,2021-05-13 00:00:00,CO:19533,Piamonte
+3,Centro,-76.326755,1.118145,Georreferenciado,Nombre del Barrio,Centro,F,50,9996,6,2021-05-18 00:00:00,2021-05-18 00:00:00,CO:19533,Piamonte
+4,Centro,-76.326755,1.118145,Georreferenciado,Nombre del Barrio,Centro,F,8,9997,6,2021-11-24 00:00:00,2021-11-21 00:00:00,CO:19533,Piamonte
+5,Centro,-76.326755,1.118145,Georreferenciado,Nombre del Barrio,Centro,M,62,9622,6,2021-12-04 00:00:00,2021-11-25 00:00:00,CO:19533,Piamonte
+6,Fundadores,-76.325075,1.115439,Georreferenciado,Nombre del Barrio,Fundadores,F,18,9997,6,2021-05-21 00:00:00,2021-05-19 00:00:00,CO:19533,Piamonte
+7,Fundadores,-76.325075,1.115439,Georreferenciado,Nombre del Barrio,Fundadores,M,17,9997,6,2021-06-11 00:00:00,2021-06-09 00:00:00,CO:19533,Piamonte
+8,Fundadores,-76.325075,1.115439,Georreferenciado,Nombre del Barrio,Fundadores,F,44,9996,6,2021-12-05 00:00:00,2021-11-30 00:00:00,CO:19533,Piamonte
+9,Fundadores,-76.325075,1.115439,Georreferenciado,Nombre del Barrio,Fundadores,M,21,6113,6,2021-12-09 00:00:00,2021-12-06 00:00:00,CO:19533,Piamonte
+10,Fundadores,-76.325075,1.115439,Georreferenciado,Nombre del Barrio,Fundadores,F,10,9997,6,2021-12-09 00:00:00,2021-12-08 00:00:00,CO:19533,Piamonte
+11,La Paz,-76.329572,1.119483,Georreferenciado,Nombre del Barrio,La Paz,F,17,9996,6,2021-03-01 00:00:00,2021-02-25 00:00:00,CO:19533,Piamonte
+12,La Paz,-76.329572,1.119483,Georreferenciado,Nombre del Barrio,La Paz,M,23,6113,6,2021-04-21 00:00:00,2021-04-18 00:00:00,CO:19533,Piamonte
+13,La Paz,-76.329572,1.119483,Georreferenciado,Nombre del Barrio,La Paz,M,29,3513,1,2021-04-25 00:00:00,2021-04-21 00:00:00,CO:19533,Piamonte
+14,La Paz,-76.329572,1.119483,Georreferenciado,Nombre del Barrio,La Paz,F,42,9996,6,2021-05-03 00:00:00,2021-04-30 00:00:00,CO:19533,Piamonte
+15,La Paz,-76.329572,1.119483,Georreferenciado,Nombre del Barrio,La Paz,M,4,9999,6,2021-05-13 00:00:00,2021-05-10 00:00:00,CO:19533,Piamonte
+16,La Paz,-76.329572,1.119483,Georreferenciado,Nombre del Barrio,La Paz,M,7,9997,6,2021-05-23 00:00:00,2021-05-22 00:00:00,CO:19533,Piamonte
+17,La Paz,-76.329572,1.119483,Georreferenciado,Nombre del Barrio,La Paz,M,29,9129,6,2021-06-14 00:00:00,2021-06-12 00:00:00,CO:19533,Piamonte
+18,La Paz,-76.329572,1.119483,Georreferenciado,Nombre del Barrio,La Paz,M,67,6113,6,2021-07-16 00:00:00,2021-07-06 00:00:00,CO:19533,Piamonte
+19,La Paz,-76.329572,1.119483,Georreferenciado,Nombre del Barrio,La Paz,M,8,9997,6,2021-11-10 00:00:00,2021-11-06 00:00:00,CO:19533,Piamonte
+20,La Paz,-76.329572,1.119483,Georreferenciado,Nombre del Barrio,La Paz,F,22,9622,6,2021-11-24 00:00:00,2021-11-19 00:00:00,CO:19533,Piamonte
+21,La Paz,-76.329572,1.119483,Georreferenciado,Nombre del Barrio,La Paz,F,19,9996,6,2021-12-23 00:00:00,2021-12-20 00:00:00,CO:19533,Piamonte
+22,Los Nogales,-76.328136,1.120959,Georreferenciado,Nombre del Barrio,Los Nogales,F,51,9996,6,2021-04-15 00:00:00,2021-04-11 00:00:00,CO:19533,Piamonte
+23,Los Nogales,-76.328136,1.120959,Georreferenciado,Nombre del Barrio,Los Nogales,M,2,9999,6,2021-11-26 00:00:00,2021-11-24 00:00:00,CO:19533,Piamonte
+24,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,12,9997,6,2021-02-11 00:00:00,2021-02-06 00:00:00,CO:19533,Piamonte
+25,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,M,25,9997,6,2021-04-07 00:00:00,2021-04-01 00:00:00,CO:19533,Piamonte
+26,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,M,16,9997,6,2021-04-16 00:00:00,2021-04-14 00:00:00,CO:19533,Piamonte
+27,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,22,9622,6,2021-05-04 00:00:00,2021-04-30 00:00:00,CO:19533,Piamonte
+28,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,11,9997,6,2021-05-13 00:00:00,2021-05-09 00:00:00,CO:19533,Piamonte
+29,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,M,63,9999,6,2021-05-19 00:00:00,2021-05-19 00:00:00,CO:19533,Piamonte
+30,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,35,9622,5,2021-05-22 00:00:00,2021-05-20 00:00:00,CO:19533,Piamonte
+31,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,15,9997,6,2021-06-01 00:00:00,2021-05-25 00:00:00,CO:19533,Piamonte
+32,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,17,9996,6,2021-06-08 00:00:00,2021-06-04 00:00:00,CO:19533,Piamonte
+33,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,M,41,9622,6,2021-06-15 00:00:00,2021-06-10 00:00:00,CO:19533,Piamonte
+34,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,M,44,2656,6,2021-06-19 00:00:00,2021-06-17 00:00:00,CO:19533,Piamonte
+35,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,3,9999,6,2021-11-04 00:00:00,2021-10-30 00:00:00,CO:19533,Piamonte
+36,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,1,9999,5,2021-11-06 00:00:00,2021-11-01 00:00:00,CO:19533,Piamonte
+37,Villa Los Prados,-76.327715,1.119345,Georreferenciado,Nombre del Barrio,Villa Los Prados,F,22,3253,6,2021-11-09 00:00:00,2021-11-07 00:00:00,CO:19533,Piamonte
+90,Centro poblado El Estrecho,-77.11874,1.966927,Georreferenciado,Nombre del Centro Poblado,El Estrecho,M,19,9997,6,2016-01-06 00:00:00,2016-01-04 00:00:00,CO:19532,Patía
+41,Modelo,-76.985881,2.109348,Georreferenciado,Nombre del Barrio,Modelo,F,8,9997,6,2016-01-05 00:00:00,2016-01-01 00:00:00,CO:19532,Patía
+17,Popular,-76.980398,2.112745,Georreferenciado,Nombre del Barrio,Popular,M,47,6129,6,2016-01-06 00:00:00,2016-01-03 00:00:00,CO:19532,Patía
+136,Olaya Herrera,-76.982165,2.108926,Georreferenciado,Nombre del Barrio,Olaya Herrera,M,4,9997,6,2016-01-05 00:00:00,2016-01-01 00:00:00,CO:19532,Patía
+150,Olaya Herrera,-76.982165,2.108926,Georreferenciado,Nombre del Barrio,Olaya Herrera,F,10,9997,6,2016-01-11 00:00:00,2016-01-06 00:00:00,CO:19532,Patía
+12,Postobon,-76.981748,2.116064,Georreferenciado,Nombre del Barrio,Postobon,M,21,9997,6,2018-01-25 00:00:00,2018-01-25 00:00:00,CO:19532,Patía
+37,Libertador,-76.982139,2.113262,Georreferenciado,Nombre del Barrio,Libertador,M,25,9997,6,2016-01-08 00:00:00,2016-01-03 00:00:00,CO:19532,Patía
+128,"CRA 3 N 10 -30, EL EMPEDRADO",-76.981588,2.11706,Georreferenciado,Nombre del Barrio,Fundadores,M,20,9997,6,2016-01-15 00:00:00,2016-01-11 00:00:00,CO:19532,Patía
+126,CRA 3 NO 3-74 BLOS ESTUDIANTES,-76.986505,2.112501,Georreferenciado,Nombre del Barrio,Centro,M,15,9997,6,2016-01-17 00:00:00,2016-01-15 00:00:00,CO:19532,Patía
+58,El Lago,-76.981113,2.120396,Georreferenciado,Nombre del Barrio,El Lago,M,17,9997,6,2019-09-27 00:00:00,2019-09-27 00:00:00,CO:19532,Patía
+127,"CARRERA 2 # 6-75, BALBOITA",-76.984705,2.11488,Georreferenciado,Nombre del Barrio,Balboita,F,9,9997,6,2016-01-13 00:00:00,2016-01-10 00:00:00,CO:19532,Patía
+172,Balboita,-76.984997,2.114543,Georreferenciado,Nombre del Barrio,Balboita,F,9,9997,6,2016-01-13 00:00:00,2016-01-10 00:00:00,CO:19532,Patía
+152,Olaya Herrera,-76.982165,2.108926,Georreferenciado,Nombre del Barrio,Olaya Herrera,M,7,9997,6,2018-03-14 00:00:00,2018-03-12 00:00:00,CO:19532,Patía
+113,Centro poblado Piedra Sentada,-76.898662,2.171143,Georreferenciado,Nombre del Centro Poblado,Piedra Sentada,F,50,9996,6,2018-03-11 00:00:00,2018-03-10 00:00:00,CO:19532,Patía
+151,Olaya Herrera,-76.982165,2.108926,Georreferenciado,Nombre del Barrio,Olaya Herrera,M,27,6112,6,2016-01-12 00:00:00,2016-01-08 00:00:00,CO:19532,Patía
+102,Centro poblado El Estrecho,-77.11874,1.966927,Georreferenciado,Nombre del Centro Poblado,El Estrecho,M,23,9994,6,2018-04-24 00:00:00,2018-04-24 00:00:00,CO:19532,Patía
+74,Vereda El Puro,-77.123807,2.003936,Georreferenciado,Nombre del Centro Poblado,El Puro,F,26,5249,6,2018-05-04 00:00:00,2018-05-04 00:00:00,CO:19532,Patía
+91,Centro poblado El Estrecho,-77.11874,1.966927,Georreferenciado,Nombre del Centro Poblado,El Estrecho,M,66,5122,6,2016-01-27 00:00:00,2016-01-25 00:00:00,CO:19532,Patía
+167,Limonar,-76.987387,2.114469,Georreferenciado,Nombre del Barrio,Limonar,F,66,9996,6,2016-01-30 00:00:00,2016-01-28 00:00:00,CO:19532,Patía
+80,Vereda el Guaico,-77.067402,2.25909,Georreferenciado,Nombre del Centro Poblado,El Guaico,F,77,9996,6,2019-03-16 00:00:00,2019-03-12 00:00:00,CO:19532,Patía
+50,Hueco Lindo,-76.983466,2.112367,Georreferenciado,Nombre del Barrio,Hueco Lindo,F,11,9997,6,2016-01-25 00:00:00,2016-01-21 00:00:00,CO:19532,Patía
+116,Calle Nueva,-76.984382,2.112092,Georreferenciado,Nombre del Barrio,Calle Nueva,F,32,9996,6,2016-01-26 00:00:00,2016-01-22 00:00:00,CO:19532,Patía
+175,Galán,-76.978253,2.114932,Georreferenciado,Nombre del Barrio,Galán,F,36,9996,6,2018-05-23 00:00:00,2018-05-23 00:00:00,CO:19532,Patía
+153,Olaya Herrera,-76.982165,2.108926,Georreferenciado,Nombre del Barrio,Olaya Herrera,F,29,9996,6,2018-05-23 00:00:00,2018-05-23 00:00:00,CO:19532,Patía
+60,Versalles,-76.977945,2.122023,Georreferenciado,Nombre del Barrio,Versalles,M,13,9997,6,2016-02-01 00:00:00,2016-02-01 00:00:00,CO:19532,Patía
+70,Vereda El Tuno,-77.048864,2.020125,Georreferenciado,Nombre del Centro Poblado,El Tuno,F,7,9997,6,2016-02-01 00:00:00,2016-01-28 00:00:00,CO:19532,Patía
+42,Modelo,-76.985881,2.109348,Georreferenciado,Nombre del Barrio,Modelo,F,10,9997,6,2016-02-04 00:00:00,2016-02-02 00:00:00,CO:19532,Patía
+114,Centro poblado Piedra Sentada,-76.898662,2.171143,Georreferenciado,Nombre del Centro Poblado,Piedra Sentada,M,64,3117,6,2018-06-01 00:00:00,2018-05-28 00:00:00,CO:19532,Patía
+72,Vereda El Rincón,-77.085947,2.066469,Georreferenciado,Nombre del Centro Poblado,El Rincón,F,5,9997,6,2018-05-30 00:00:00,2018-05-29 00:00:00,CO:19532,Patía
+154,Olaya Herrera,-76.982165,2.108926,Georreferenciado,Nombre del Barrio,Olaya Herrera,M,3,9999,6,2018-06-08 00:00:00,2018-06-04 00:00:00,CO:19532,Patía
+83,Vereda Piedra Sentada,-76.901576,2.169918,Georreferenciado,Nombre del Centro Poblado,Piedra Sentada,F,20,9997,6,2019-02-21 00:00:00,2019-02-21 00:00:00,CO:19532,Patía
+13,Postobon,-76.981748,2.116064,Georreferenciado,Nombre del Barrio,Postobon,M,85,9996,6,2018-06-14 00:00:00,2018-06-11 00:00:00,CO:19532,Patía
+135,PATIA KUMIS DE GILMA VIAPATIA KUMIS DE GILMA VIA PANAMERICANA,-77.053474,2.068738,Georreferenciado,Nombre del Barrio,"Centro poblado Ángulo, Patía",F,5,9997,6,2016-02-11 00:00:00,2016-02-10 00:00:00,CO:19532,Patía
+133,HUECO LINDO CALLE 6 # 3 -53,-76.98503,2.113544,Georreferenciado,Nombre del Barrio,Balboita,F,15,9997,6,2019-04-13 00:00:00,2019-04-12 00:00:00,CO:19532,Patía
+78,Vereda El Juncal,-77.101595,2.019912,Georreferenciado,Nombre del Centro Poblado,El Juncal,M,64,6111,6,2019-04-14 00:00:00,2019-04-01 00:00:00,CO:19532,Patía
+75,Vereda Don Alonso,-77.028733,2.277565,Georreferenciado,Nombre del Centro Poblado,Don Alonso,M,27,9312,6,2018-07-28 00:00:00,2018-07-14 00:00:00,CO:19532,Patía
+52,Prados del Norte,-76.976256,2.125626,Georreferenciado,Nombre del Barrio,Padros del Norte,M,20,9997,6,2016-02-13 00:00:00,2016-02-10 00:00:00,CO:19532,Patía
+120,La Unión,-76.984382,2.112092,Georreferenciado,Nombre del Barrio,La Unión,M,11,9997,6,2016-02-12 00:00:00,2016-02-04 00:00:00,CO:19532,Patía
+87,Vereda Villanueva,-77.075995,2.242493,Georreferenciado,Nombre del Centro Poblado,Villanueva,F,33,9996,6,2016-02-05 00:00:00,2016-02-04 00:00:00,CO:19532,Patía
+64,Pablo VI,-76.988852,2.112244,Georreferenciado,Nombre del Barrio,Pablo VI,F,22,9996,5,2016-02-19 00:00:00,2016-02-16 00:00:00,CO:19532,Patía
+92,Centro poblado El Estrecho,-77.11874,1.966927,Georreferenciado,Nombre del Centro Poblado,El Estrecho,M,21,230,6,2016-02-12 00:00:00,2016-02-10 00:00:00,CO:19532,Patía
+66,Vereda La Manguita,-77.141748,1.952934,Georreferenciado,Nombre del Centro Poblado,La Manguita,M,38,9994,6,2018-09-14 00:00:00,2018-09-01 00:00:00,CO:19532,Patía
+3,Centro,-76.986093,2.113223,Georreferenciado,Nombre del Barrio,Centro,F,23,2230,6,2018-09-20 00:00:00,2018-09-19 00:00:00,CO:19532,Patía
+8,Postobon,-76.981748,2.116064,Georreferenciado,Nombre del Barrio,Postobon,M,13,9997,6,2016-02-22 00:00:00,2016-02-19 00:00:00,CO:19532,Patía
+121,La Unión,-76.984382,2.112092,Georreferenciado,Nombre del Barrio,La Unión,M,34,8323,6,2016-02-17 00:00:00,2016-02-12 00:00:00,CO:19532,Patía
+61,Versalles,-76.977945,2.122023,Georreferenciado,Nombre del Barrio,Versalles,M,89,9999,6,2019-05-01 00:00:00,2019-04-30 00:00:00,CO:19532,Patía
+76,Vereda Ángulo,-77.098713,2.050712,Georreferenciado,Nombre del Centro Poblado,Ángulo,F,51,9996,6,2018-12-01 00:00:00,2018-11-30 00:00:00,CO:19532,Patía
+132,"CL 2E # 10B-04
+ FUCHA",-76.983887,2.106644,Georreferenciado,Nombre del Barrio,-,M,41,1412,6,2018-11-26 00:00:00,2018-11-16 00:00:00,CO:19532,Patía
+125,CLL8N 4-27,-76.982906,2.114593,Georreferenciado,Nombre del Barrio,Barrio Hospital,M,76,9996,5,2015-02-20 00:00:00,2015-02-14 00:00:00,CO:19532,Patía
+47,Hueco Lindo,-76.983466,2.112367,Georreferenciado,Nombre del Barrio,Hueco Lindo,M,9,9997,6,2016-01-02 00:00:00,2015-12-31 00:00:00,CO:19532,Patía
+86,Vereda Villanueva,-77.075995,2.242493,Georreferenciado,Nombre del Centro Poblado,Villanueva,F,56,9996,6,2016-01-02 00:00:00,2015-12-27 00:00:00,CO:19532,Patía
+94,Centro poblado El Estrecho,-77.11874,1.966927,Georreferenciado,Nombre del Centro Poblado,El Estrecho,F,13,9997,6,2016-02-26 00:00:00,2016-02-26 00:00:00,CO:19532,Patía
+20,Popular,-76.980398,2.112745,Georreferenciado,Nombre del Barrio,Popular,F,42,5249,6,2019-01-02 00:00:00,2018-12-31 00:00:00,CO:19532,Patía
+77,Vereda Las Tallas,-77.081487,2.130911,Georreferenciado,Nombre del Centro Poblado,Las Tallas,M,51,9950,6,2019-01-05 00:00:00,2019-01-05 00:00:00,CO:19532,Patía
+56,El Lago,-76.981113,2.120396,Georreferenciado,Nombre del Barrio,El Lago,F,8,9997,5,2015-12-14 00:00:00,2015-12-12 00:00:00,CO:19532,Patía
+57,El Lago,-76.981113,2.120396,Georreferenciado,Nombre del Barrio,El Lago,F,6,9998,6,2015-12-26 00:00:00,2015-12-22 00:00:00,CO:19532,Patía
+110,Centro poblado Brisas,-77.060701,2.280627,Georreferenciado,Nombre del Centro Poblado,Brisas,M,30,6111,6,2019-01-21 00:00:00,2019-01-16 00:00:00,CO:19532,Patía
+131,CL 6 NO 8-18 BARRIO BALBOITA,-76.982288,2.110527,Georreferenciado,Nombre del Barrio,Olaya Herrera,F,53,3460,6,2016-01-15 00:00:00,2016-01-12 00:00:00,CO:19532,Patía
+123,La Unión,-76.984382,2.112092,Georreferenciado,Nombre del Barrio,La Unión,M,35,9611,6,2018-05-27 00:00:00,2018-05-24 00:00:00,CO:19532,Patía
+104,Centro poblado El Estrecho,-77.11874,1.966927,Georreferenciado,Nombre del Centro Poblado,El Estrecho,M,20,9994,6,2018-09-12 00:00:00,2018-09-10 00:00:00,CO:19532,Patía
+103,Centro poblado El Estrecho,-77.11874,1.966927,Georreferenciado,Nombre del Centro Poblado,El Estrecho,M,20,9994,6,2018-12-08 00:00:00,2018-12-08 00:00:00,CO:19532,Patía
+166,Fundadores,-76.981211,2.117772,Georreferenciado,Nombre del Barrio,Fundadores,F,25,9996,6,  -   -,  -   -,CO:19532,Patía
+53,Prados del Norte,-76.976256,2.125626,Georreferenciado,Nombre del Barrio,Padros del Norte,F,36,9996,6,2016-03-20 00:00:00,2016-03-14 00:00:00,CO:19532,Patía
+106,Centro poblado La Fonda,-77.060115,2.152567,Georreferenciado,Nombre del Centro Poblado, La Fonda,M,24,6111,6,2019-03-04 00:00:00,2019-03-01 00:00:00,CO:19532,Patía
+88,Vereda Piedra Sentada,-76.901576,2.169918,Georreferenciado,Nombre del Centro Poblado,Piedra Sentada,M,7,9997,6,2019-06-26 00:00:00,2019-06-23 00:00:00,CO:19532,Patía
+81,Vereda Puerto Rico,-77.138845,2.154059,Georreferenciado,Nombre del Centro Poblado,Puerto Rico,F,71,9996,6,2019-07-31 00:00:00,2019-07-29 00:00:00,CO:19532,Patía
+79,Vereda La Mesa,-77.112276,2.262463,Georreferenciado,Nombre del Centro Poblado,La Mesa,M,6,9997,6,2019-08-15 00:00:00,2019-08-14 00:00:00,CO:19532,Patía
+107,Centro poblado Pan de Azúcar,-77.133859,2.148985,Georreferenciado,Nombre del Centro Poblado,Pan de Azúcar,M,64,6111,6,2016-04-16 00:00:00,2016-04-11 00:00:00,CO:19532,Patía
+55,Prados del Norte,-76.976256,2.125626,Georreferenciado,Nombre del Barrio,Padros del Norte,M,23,9111,6,2019-10-07 00:00:00,2019-07-01 00:00:00,CO:19532,Patía
+148,Olaya Herrera,-76.982165,2.108926,Georreferenciado,Nombre del Barrio,Olaya Herrera,M,36,6112,6,2016-01-11 00:00:00,2016-01-08 00:00:00,CO:19532,Patía
+117,Calle Nueva,-76.984382,2.112092,Georreferenciado,Nombre del Barrio,Calle Nueva,M,58,6111,6,2016-01-08 00:00:00,2016-01-05 00:00:00,CO:19532,Patía
+158,Estudiantes,-76.983366,2.115266,Georreferenciado,Nombre del Barrio,Estudiantes,M,72,6111,6,2016-05-10 00:00:00,2016-05-06 00:00:00,CO:19532,Patía
+105,Centro poblado La Fonda,-77.060115,2.152567,Georreferenciado,Nombre del Centro Poblado, La Fonda,M,20,9999,6,2016-01-20 00:00:00,2016-01-17 00:00:00,CO:19532,Patía
+129,CALLE 6 NO 1-72 BARRIO CENTRAL,-76.985806,2.114355,Georreferenciado,Nombre del Barrio,Centro,M,38,2149,6,2016-02-09 00:00:00,2016-02-01 00:00:00,CO:19532,Patía
+149,Olaya Herrera,-76.982165,2.108926,Georreferenciado,Nombre del Barrio,Olaya Herrera,M,21,4224,6,2016-05-15 00:00:00,2016-05-15 00:00:00,CO:19532,Patía
+95,Centro poblado El Estrecho,-77.11874,1.966927,Georreferenciado,Nombre del Centro Poblado,El Estrecho,M,31,2144,6,2016-05-22 00:00:00,2016-05-22 00:00:00,CO:19532,Patía
+82,Vereda Miraflores,-77.062631,2.094044,Georreferenciado,Nombre del Centro Poblado,Miraflores,M,33,6112,6,2016-04-19 00:00:00,2016-04-15 00:00:00,CO:19532,Patía
+71,Vereda El Rincón,-77.085947,2.066469,Georreferenciado,Nombre del Centro Poblado,El Rincón,M,53,9996,5,2016-06-05 00:00:00,2016-06-04 00:00:00,CO:19532,Patía
+159,Estudiantes,-76.983366,2.115266,Georreferenciado,Nombre del Barrio,Estudiantes,M,23,6112,6,2016-04-12 00:00:00,2016-04-06 00:00:00,CO:19532,Patía
+38,Libertador,-76.982139,2.113262,Georreferenciado,Nombre del Barrio,Libertador,M,29,9997,5,2016-06-08 00:00:00,2016-06-04 00:00:00,CO:19532,Patía
+130,CL 61-44 BEL LIMONAR EL BORDO,-76.985918,2.11446,Georreferenciado,Nombre del Barrio,Centro,M,36,7226,6,2016-06-07 00:00:00,2016-05-30 00:00:00,CO:19532,Patía
+24,Aruba y Curazao,-76.978484,2.120931,Georreferenciado,Nombre del Barrio,Aruba y Curazao,M,20,8322,6,2019-12-10 00:00:00,2019-12-05 00:00:00,CO:19532,Patía
+89,Vereda Piedra Sentada,-76.901576,2.169918,Georreferenciado,Nombre del Centro Poblado,Piedra Sentada,F,33,6111,6,2019-12-10 00:00:00,2019-11-30 00:00:00,CO:19532,Patía
+25,Aruba y Curazao,-76.978484,2.120931,Georreferenciado,Nombre del Barrio,Aruba y Curazao,M,29,5221,6,2019-12-12 00:00:00,2019-12-05 00:00:00,CO:19532,Patía
+39,Libertador,-76.982139,2.113262,Georreferenciado,Nombre del Barrio,Libertador,M,15,9997,6,2016-01-29 00:00:00,2016-01-25 00:00:00,CO:19532,Patía
+73,Vereda Chondural,-77.01579,2.098562,Georreferenciado,Nombre del Centro Poblado,Chondural,M,54,6112,6,2016-07-16 00:00:00,2016-07-08 00:00:00,CO:19532,Patía
+28,Jardín,-76.982276,2.118541,Georreferenciado,Nombre del Barrio,Jardín,F,33,9996,6,2016-07-23 00:00:00,2016-07-17 00:00:00,CO:19532,Patía
+174,Balboita,-76.984997,2.114543,Georreferenciado,Nombre del Barrio,Balboita,F,53,9996,6,2016-07-14 00:00:00,2016-07-13 00:00:00,CO:19532,Patía
+45,Puerto Nuevo,-76.973183,2.129977,Georreferenciado,Nombre del Barrio,Puerto Nuevo,M,15,9997,6,2016-07-23 00:00:00,2016-07-19 00:00:00,CO:19532,Patía
+160,Estudiantes,-76.983366,2.115266,Georreferenciado,Nombre del Barrio,Estudiantes,F,35,9996,6,2016-02-14 00:00:00,2016-02-09 00:00:00,CO:19532,Patía
+11,Postobon,-76.981748,2.116064,Georreferenciado,Nombre del Barrio,Postobon,M,8,9997,6,2016-01-20 00:00:00,2016-01-19 00:00:00,CO:19532,Patía
+9,Postobon,-76.981748,2.116064,Georreferenciado,Nombre del Barrio,Postobon,F,19,9950,6,2016-07-04 00:00:00,2016-06-26 00:00:00,CO:19532,Patía
+93,Centro poblado El Estrecho,-77.11874,1.966927,Georreferenciado,Nombre del Centro Poblado,El Estrecho,M,52,6112,6,2016-05-24 00:00:00,2016-05-24 00:00:00,CO:19532,Patía
+173,Balboita,-76.984997,2.114543,Georreferenciado,Nombre del Barrio,Balboita,M,17,9997,6,2016-09-20 00:00:00,2016-09-15 00:00:00,CO:19532,Patía
+46,Puerto Nuevo,-76.973183,2.129977,Georreferenciado,Nombre del Barrio,Puerto Nuevo,F,34,9996,6,2016-01-19 00:00:00,2016-01-14 00:00:00,CO:19532,Patía
+10,Postobon,-76.981748,2.116064,Georreferenciado,Nombre del Barrio,Postobon,M,15,9997,6,2016-08-14 00:00:00,2016-08-12 00:00:00,CO:19532,Patía
+85,Vereda El Limonar,-77.081951,2.253439,Georreferenciado,Nombre del Centro Poblado,El Limonar,F,39,9996,6,2016-02-12 00:00:00,2016-02-07 00:00:00,CO:19532,Patía
+43,Modelo,-76.985881,2.109348,Georreferenciado,Nombre del Barrio,Modelo,M,34,3429,6,2016-06-19 00:00:00,2016-06-19 00:00:00,CO:19532,Patía
+54,Prados del Norte,-76.976256,2.125626,Georreferenciado,Nombre del Barrio,Padros del Norte,M,38,8321,6,2017-01-13 00:00:00,2017-01-13 00:00:00,CO:19532,Patía
+65,Pablo VI,-76.988852,2.112244,Georreferenciado,Nombre del Barrio,Pablo VI,M,16,9997,5,2016-02-19 00:00:00,2016-02-16 00:00:00,CO:19532,Patía
+18,Popular,-76.980398,2.112745,Georreferenciado,Nombre del Barrio,Popular,M,28,9999,6,2017-04-18 00:00:00,2017-04-13 00:00:00,CO:19532,Patía
+109,Centro poblado Brisas,-77.060701,2.280627,Georreferenciado,Nombre del Centro Poblado,Brisas,M,24,9999,6,2017-05-16 00:00:00,2017-05-16 00:00:00,CO:19532,Patía
+99,Centro poblado El Estrecho,-77.11874,1.966927,Georreferenciado,Nombre del Centro Poblado,El Estrecho,M,21,6112,6,2017-06-09 00:00:00,2017-06-05 00:00:00,CO:19532,Patía
+108,Centro poblado Galindez,-77.157079,1.944123,Georreferenciado,Nombre del Centro Poblado,Galindez,F,30,9996,6,2017-07-12 00:00:00,2017-07-12 00:00:00,CO:19532,Patía
+51,Hueco Lindo,-76.983466,2.112367,Georreferenciado,Nombre del Barrio,Hueco Lindo,M,26,9997,6,2017-07-07 00:00:00,2017-07-06 00:00:00,CO:19532,Patía
+19,Popular,-76.980398,2.112745,Georreferenciado,Nombre del Barrio,Popular,M,28,6111,6,2017-04-18 00:00:00,2017-04-14 00:00:00,CO:19532,Patía
+122,La Unión,-76.984382,2.112092,Georreferenciado,Nombre del Barrio,La Unión,F,53,9996,6,2017-07-27 00:00:00,2017-07-25 00:00:00,CO:19532,Patía
+100,Centro poblado El Estrecho,-77.11874,1.966927,Georreferenciado,Nombre del Centro Poblado,El Estrecho,M,75,9950,6,2017-06-29 00:00:00,2017-06-28 00:00:00,CO:19532,Patía
+101,Centro poblado El Estrecho,-77.11874,1.966927,Georreferenciado,Nombre del Centro Poblado,El Estrecho,F,87,9996,6,2017-10-03 00:00:00,2017-09-20 00:00:00,CO:19532,Patía
+179,Vereda Trebol,-77.087456164541,2.24550716400006,Georreferenciado,Nombre del Centro Poblado,Trébol,M,16,9997,6,2017-10-14 00:00:00,2017-10-12 00:00:00,CO:19532,Patía
+40,Libertador,-76.982139,2.113262,Georreferenciado,Nombre del Barrio,Libertador,M,16,9997,6,2017-11-01 00:00:00,2017-10-31 00:00:00,CO:19532,Patía
+112,Centro poblado Piedra Sentada,-76.898662,2.171143,Georreferenciado,Nombre del Centro Poblado,Piedra Sentada,M,23,9950,6,2017-10-08 00:00:00,2017-09-30 00:00:00,CO:19532,Patía
+4,Postobon,-76.981748,2.116064,Georreferenciado,Nombre del Barrio,Postobon,M,18,9997,6,2015-01-08 00:00:00,2015-01-04 00:00:00,CO:19532,Patía
+137,Olaya Herrera,-76.982165,2.108926,Georreferenciado,Nombre del Barrio,Olaya Herrera,M,48,9313,6,2015-01-11 00:00:00,2015-01-08 00:00:00,CO:19532,Patía
+29,Libertador,-76.982139,2.113262,Georreferenciado,Nombre del Barrio,Libertador,F,37,9996,5,2015-01-30 00:00:00,2015-01-27 00:00:00,CO:19532,Patía
+144,Olaya Herrera,-76.982165,2.108926,Georreferenciado,Nombre del Barrio,Olaya Herrera,F,49,9996,6,2015-02-06 00:00:00,2015-02-03 00:00:00,CO:19532,Patía
+161,La Floresta,-76.977946,2.111682,Georreferenciado,Nombre del Barrio,La Floresta,M,29,9311,6,2015-02-06 00:00:00,2015-02-04 00:00:00,CO:19532,Patía
+48,Hueco Lindo,-76.983466,2.112367,Georreferenciado,Nombre del Barrio,Hueco Lindo,M,4,9997,5,2015-02-06 00:00:00,2015-02-05 00:00:00,CO:19532,Patía
+145,Olaya Herrera,-76.982165,2.108926,Georreferenciado,Nombre del Barrio,Olaya Herrera,F,22,9996,6,2015-02-08 00:00:00,2015-02-01 00:00:00,CO:19532,Patía
+32,Libertador,-76.982139,2.113262,Georreferenciado,Nombre del Barrio,Libertador,F,42,9996,6,2015-02-08 00:00:00,2015-02-06 00:00:00,CO:19532,Patía
+16,Popular,-76.980398,2.112745,Georreferenciado,Nombre del Barrio,Popular,M,14,9997,6,2015-02-08 00:00:00,2015-02-06 00:00:00,CO:19532,Patía
+33,Libertador,-76.982139,2.113262,Georreferenciado,Nombre del Barrio,Libertador,F,43,9996,6,2015-02-08 00:00:00,2015-02-07 00:00:00,CO:19532,Patía
+34,Libertador,-76.982139,2.113262,Georreferenciado,Nombre del Barrio,Libertador,F,40,5132,5,2015-02-09 00:00:00,2015-02-01 00:00:00,CO:19532,Patía
+49,Hueco Lindo,-76.983466,2.112367,Georreferenciado,Nombre del Barrio,Hueco Lindo,F,27,9996,6,2015-02-09 00:00:00,2015-02-07 00:00:00,CO:19532,Patía
+138,Olaya Herrera,-76.982165,2.108926,Georreferenciado,Nombre del Barrio,Olaya Herrera,F,28,9996,6,2015-02-12 00:00:00,2015-02-11 00:00:00,CO:19532,Patía
+35,Libertador,-76.982139,2.113262,Georreferenciado,Nombre del Barrio,Libertador,M,4,9997,6,2015-02-17 00:00:00,2015-02-14 00:00:00,CO:19532,Patía
+139,Olaya Herrera,-76.982165,2.108926,Georreferenciado,Nombre del Barrio,Olaya Herrera,M,5,9997,6,2015-02-25 00:00:00,2015-02-24 00:00:00,CO:19532,Patía
+69,Vereda Betania,-77.081681,2.208723,Georreferenciado,Nombre del Centro Poblado,Betania,M,27,130,6,2015-04-29 00:00:00,2015-04-26 00:00:00,CO:19532,Patía
+156,Las Ferias,-76.982843,2.118946,Georreferenciado,Nombre del Barrio,Las Ferias,M,27,110,6,2015-04-29 00:00:00,2015-04-25 00:00:00,CO:19532,Patía
+140,Olaya Herrera,-76.982165,2.108926,Georreferenciado,Nombre del Barrio,Olaya Herrera,F,53,9996,5,2015-02-01 00:00:00,2015-01-31 00:00:00,CO:19532,Patía
+21,Altillo,-76.987971,2.111846,Georreferenciado,Nombre del Barrio,Altillo,M,16,9997,6,2015-07-28 00:00:00,2015-07-24 00:00:00,CO:19532,Patía
+22,Altillo,-76.987971,2.111846,Georreferenciado,Nombre del Barrio,Altillo,M,18,9997,6,2015-08-06 00:00:00,2015-08-04 00:00:00,CO:19532,Patía
+157,Estudiantes,-76.983366,2.115266,Georreferenciado,Nombre del Barrio,Estudiantes,F,16,9997,6,2015-08-22 00:00:00,2015-08-19 00:00:00,CO:19532,Patía
+36,Libertador,-76.982139,2.113262,Georreferenciado,Nombre del Barrio,Libertador,M,18,6112,1,2015-08-25 00:00:00,2015-08-22 00:00:00,CO:19532,Patía
+163,La Floresta,-76.977946,2.111682,Georreferenciado,Nombre del Barrio,La Floresta,F,22,9996,6,2015-08-31 00:00:00,2015-08-28 00:00:00,CO:19532,Patía
+15,Popular,-76.980398,2.112745,Georreferenciado,Nombre del Barrio,Popular,F,5,9997,6,2015-09-17 00:00:00,2015-09-12 00:00:00,CO:19532,Patía
+98,Centro poblado El Estrecho,-77.11874,1.966927,Georreferenciado,Nombre del Centro Poblado,El Estrecho,F,34,9996,6,2015-09-16 00:00:00,2015-09-12 00:00:00,CO:19532,Patía
+176,Fundadores,-76.981211,2.117772,Georreferenciado,Nombre del Barrio,Fundadores,M,16,9997,6,2015-09-25 00:00:00,2015-09-22 00:00:00,CO:19532,Patía
+97,Centro poblado El Estrecho,-77.11874,1.966927,Georreferenciado,Nombre del Centro Poblado,El Estrecho,F,10,9997,5,2015-10-03 00:00:00,2015-09-30 00:00:00,CO:19532,Patía
+5,Postobon,-76.981748,2.116064,Georreferenciado,Nombre del Barrio,Postobon,F,8,9997,6,2015-09-27 00:00:00,2015-09-22 00:00:00,CO:19532,Patía
+162,La Floresta,-76.977946,2.111682,Georreferenciado,Nombre del Barrio,La Floresta,M,10,9997,6,2015-10-11 00:00:00,2015-10-08 00:00:00,CO:19532,Patía
+141,Olaya Herrera,-76.982165,2.108926,Georreferenciado,Nombre del Barrio,Olaya Herrera,F,44,9996,6,2015-10-18 00:00:00,2015-10-15 00:00:00,CO:19532,Patía
+14,Popular,-76.980398,2.112745,Georreferenciado,Nombre del Barrio,Popular,F,7,9997,6,2015-10-23 00:00:00,2015-10-20 00:00:00,CO:19532,Patía
+111,Centro poblado Piedra Sentada,-76.898662,2.171143,Georreferenciado,Nombre del Centro Poblado,Piedra Sentada,F,15,9997,5,2015-10-27 00:00:00,2015-10-26 00:00:00,CO:19532,Patía
+164,Fundadores,-76.981211,2.117772,Georreferenciado,Nombre del Barrio,Fundadores,M,11,9998,6,2015-10-26 00:00:00,2015-10-23 00:00:00,CO:19532,Patía
+142,Olaya Herrera,-76.982165,2.108926,Georreferenciado,Nombre del Barrio,Olaya Herrera,F,32,9996,5,2015-11-03 00:00:00,2015-11-01 00:00:00,CO:19532,Patía
+23,Altillo,-76.987971,2.111846,Georreferenciado,Nombre del Barrio,Altillo,F,18,9997,6,2015-11-13 00:00:00,2015-11-10 00:00:00,CO:19532,Patía
+155,Olaya Herrera,-76.982165,2.108926,Georreferenciado,Nombre del Barrio,Olaya Herrera,F,52,9996,5,2015-11-12 00:00:00,2015-11-06 00:00:00,CO:19532,Patía
+26,Jardín,-76.982276,2.118541,Georreferenciado,Nombre del Barrio,Jardín,M,15,9997,6,2015-11-13 00:00:00,2015-11-13 00:00:00,CO:19532,Patía
+118,"CR 2DA NO 12-69, EL JARDÍN",-76.981184,2.119044,Georreferenciado,Nombre del Barrio,Jardín,F,14,9996,6,2015-11-11 00:00:00,2015-11-11 00:00:00,CO:19532,Patía
+146,Olaya Herrera,-76.982165,2.108926,Georreferenciado,Nombre del Barrio,Olaya Herrera,M,9,9997,6,2015-11-26 00:00:00,2015-11-24 00:00:00,CO:19532,Patía
+170,Balboita,-76.984997,2.114543,Georreferenciado,Nombre del Barrio,Balboita,F,21,9997,6,2015-11-27 00:00:00,2015-11-24 00:00:00,CO:19532,Patía
+44,Puerto Nuevo,-76.973183,2.129977,Georreferenciado,Nombre del Barrio,Puerto Nuevo,F,8,9997,6,2015-11-30 00:00:00,2015-11-27 00:00:00,CO:19532,Patía
+115,Calle Nueva,-76.984382,2.112092,Georreferenciado,Nombre del Barrio,Calle Nueva,M,4,9997,6,2015-11-29 00:00:00,2015-11-25 00:00:00,CO:19532,Patía
+134,CALLE NUEVA CRA 6 CLL 5 N 3A 51,-76.984381,2.111477,Georreferenciado,Nombre del Barrio,Calle Nueva,M,11,9997,6,2015-12-03 00:00:00,2015-11-29 00:00:00,CO:19532,Patía
+124,"CRA 3 N 12-30, LOS FUNDADORES",-76.980558,2.119038,Georreferenciado,Nombre del Barrio,El Lago,F,7,9997,6,2015-12-03 00:00:00,2015-11-29 00:00:00,CO:19532,Patía
+30,Libertador,-76.982139,2.113262,Georreferenciado,Nombre del Barrio,Libertador,M,19,9997,6,2015-12-05 00:00:00,2015-12-03 00:00:00,CO:19532,Patía
+27,Jardín,-76.982276,2.118541,Georreferenciado,Nombre del Barrio,Jardín,M,34,3114,6,2015-12-04 00:00:00,2015-12-01 00:00:00,CO:19532,Patía
+165,Fundadores,-76.981211,2.117772,Georreferenciado,Nombre del Barrio,Fundadores,M,9,9997,6,2015-12-03 00:00:00,2015-12-01 00:00:00,CO:19532,Patía
+84,Vereda El Placer,-77.077916,2.190547,Georreferenciado,Nombre del Centro Poblado,Placer,M,22,6112,5,2015-12-08 00:00:00,2015-12-08 00:00:00,CO:19532,Patía
+31,Libertador,-76.982139,2.113262,Georreferenciado,Nombre del Barrio,Libertador,M,20,9950,6,2015-12-11 00:00:00,2015-12-07 00:00:00,CO:19532,Patía
+143,Olaya Herrera,-76.982165,2.108926,Georreferenciado,Nombre del Barrio,Olaya Herrera,M,40,9115,6,2015-12-11 00:00:00,2015-12-07 00:00:00,CO:19532,Patía
+168,Limonar,-76.987387,2.114469,Georreferenciado,Nombre del Barrio,Limonar,F,11,9997,6,2015-12-08 00:00:00,2015-12-06 00:00:00,CO:19532,Patía
+62,Pablo VI,-76.988852,2.112244,Georreferenciado,Nombre del Barrio,Pablo VI,F,8,9997,6,2015-12-07 00:00:00,2015-12-06 00:00:00,CO:19532,Patía
+1,Centro,-76.986093,2.113223,Georreferenciado,Nombre del Barrio,Centro,M,4,9997,6,2015-08-14 00:00:00,2015-08-14 00:00:00,CO:19532,Patía
+68,Vereda La Esperanza,-77.021067,2.084229,Georreferenciado,Nombre del Centro Poblado,La Florida,F,18,9997,5,2015-12-14 00:00:00,2015-12-12 00:00:00,CO:19532,Patía
+2,El Campin,-76.986093,2.113223,Georreferenciado,Nombre del Barrio,Centro,M,18,9997,6,2015-12-15 00:00:00,2015-12-08 00:00:00,CO:19532,Patía
+67,Vereda La Esperanza,-77.142732,2.192192,Georreferenciado,Nombre del Centro Poblado,La Esperanza,F,19,9997,6,2015-12-15 00:00:00,2015-12-11 00:00:00,CO:19532,Patía
+6,Postobon,-76.981748,2.116064,Georreferenciado,Nombre del Barrio,Postobon,M,19,9997,6,2015-12-15 00:00:00,2015-12-10 00:00:00,CO:19532,Patía
+147,Olaya Herrera,-76.982165,2.108926,Georreferenciado,Nombre del Barrio,Olaya Herrera,M,14,9997,6,2015-11-21 00:00:00,2015-11-16 00:00:00,CO:19532,Patía
+119,La Unión,-76.984382,2.112092,Georreferenciado,Nombre del Barrio,La Unión,M,11,9997,6,2015-12-18 00:00:00,2015-12-10 00:00:00,CO:19532,Patía
+7,Postobon,-76.981748,2.116064,Georreferenciado,Nombre del Barrio,Postobon,F,6,9997,6,2015-12-12 00:00:00,2015-12-07 00:00:00,CO:19532,Patía
+63,Pablo VI,-76.988852,2.112244,Georreferenciado,Nombre del Barrio,Pablo VI,M,1,9999,6,2015-12-13 00:00:00,2015-12-08 00:00:00,CO:19532,Patía
+96,Centro poblado El Estrecho,-77.11874,1.966927,Georreferenciado,Nombre del Centro Poblado,El Estrecho,M,37,8321,6,2015-12-22 00:00:00,2015-12-19 00:00:00,CO:19532,Patía
+59,Versalles,-76.977945,2.122023,Georreferenciado,Nombre del Barrio,Versalles,F,20,9997,6,2015-12-23 00:00:00,2015-12-19 00:00:00,CO:19532,Patía
+171,Balboita,-76.984997,2.114543,Georreferenciado,Nombre del Barrio,Balboita,M,11,9997,6,2015-12-31 00:00:00,2015-12-27 00:00:00,CO:19532,Patía
+169,Limonar,-76.987387,2.114469,Georreferenciado,Nombre del Barrio,Limonar,M,16,9997,6,2015-12-30 00:00:00,2015-12-27 00:00:00,CO:19532,Patía
+2,El Campin,-76.986739,2.112378,Georreferenciado,Nombre del Barrio,El Campin,M,29,5412,6,2020-05-10 00:00:00,2020-05-05 00:00:00,CO:19532,Patía
+2,El Campin,-76.986739,2.112378,Georreferenciado,Nombre del Barrio,El Campin,M,1,9999,6,2020-11-10 00:00:00,2020-11-07 00:00:00,CO:19532,Patía
+4,Centro,-76.986137,2.113547,Georreferenciado,Nombre del Barrio,Centro,F,9,9999,6,2020-06-05 00:00:00,2020-06-03 00:00:00,CO:19532,Patía
+4,Centro,-76.986137,2.113547,Georreferenciado,Nombre del Barrio,Centro,M,13,9997,6,2021-02-13 00:00:00,2021-02-07 00:00:00,CO:19532,Patía
+4,Centro,-76.986137,2.113547,Georreferenciado,Nombre del Barrio,Centro,M,8,9997,6,2021-03-25 00:00:00,2021-03-24 00:00:00,CO:19532,Patía
+5,Aruba y Curazao,-76.978483,2.120931,Georreferenciado,Nombre del Barrio,Aruba y Curazao,F,5,9997,6,2021-05-11 00:00:00,2021-05-10 00:00:00,CO:19532,Patía
+6,El Lago,-76.980964,2.120432,Georreferenciado,Nombre del Barrio,El Lago,F,47,9993,6,2021-04-06 00:00:00,2021-03-27 00:00:00,CO:19532,Patía
+6,El Lago,-76.980964,2.120432,Georreferenciado,Nombre del Barrio,El Lago,F,20,9997,6,2021-04-28 00:00:00,2021-04-23 00:00:00,CO:19532,Patía
+7,Prados del Norte,-76.976966,2.124427,Georreferenciado,Nombre del Barrio,Prados del Norte,M,60,9950,6,2020-06-26 00:00:00,2020-06-21 00:00:00,CO:19532,Patía
+9,Galan,-76.978253,2.114932,Georreferenciado,Nombre del Barrio,Galán,F,28,9996,6,2021-11-21 00:00:00,2021-11-19 00:00:00,CO:19532,Patía
+10,Jardin,-76.982276,2.11854,Georreferenciado,Nombre del Barrio,Jardín,F,15,9997,6,2021-05-20 00:00:00,2021-05-15 00:00:00,CO:19532,Patía
+11,La Floresta,-76.977944,2.111682,Georreferenciado,Nombre del Barrio,La Floresta,F,11,9998,6,2020-05-03 00:00:00,2020-04-29 00:00:00,CO:19532,Patía
+11,La Floresta,-76.977944,2.111682,Georreferenciado,Nombre del Barrio,La Floresta,F,15,9997,6,2020-05-23 00:00:00,2020-05-23 00:00:00,CO:19532,Patía
+11,La Floresta,-76.977944,2.111682,Georreferenciado,Nombre del Barrio,La Floresta,M,5,9997,6,2020-06-06 00:00:00,2020-06-06 00:00:00,CO:19532,Patía
+12,El Peñol,-76.986847,2.10898,Georreferenciado,Nombre del Barrio,El Peñol,M,5,9997,6,2020-02-23 00:00:00,2020-02-23 00:00:00,CO:19532,Patía
+12,El Peñol,-76.986847,2.10898,Georreferenciado,Nombre del Barrio,El Peñol,M,2,9999,6,2020-03-14 00:00:00,2020-03-14 00:00:00,CO:19532,Patía
+12,El Peñol,-76.986847,2.10898,Georreferenciado,Nombre del Barrio,El Peñol,F,9,9996,6,2020-04-16 00:00:00,2020-04-12 00:00:00,CO:19532,Patía
+12,El Peñol,-76.986847,2.10898,Georreferenciado,Nombre del Barrio,El Peñol,F,5,9997,6,2021-03-27 00:00:00,2021-03-24 00:00:00,CO:19532,Patía
+13,Altillo,-76.988068,2.111595,Georreferenciado,Nombre del Barrio,Altillo,F,6,9997,6,2021-02-02 00:00:00,2021-01-30 00:00:00,CO:19532,Patía
+16,Modelo,-76.985719,2.109264,Georreferenciado,Nombre del Barrio,Modelo,F,8,9997,6,2020-02-29 00:00:00,2020-02-29 00:00:00,CO:19532,Patía
+17,Fundadores,-76.981262,2.117744,Georreferenciado,Nombre del Barrio,Fundadores,M,44,613,6,2020-12-12 00:00:00,2020-12-07 00:00:00,CO:19532,Patía
+22,Popular,-76.980363,2.112464,Georreferenciado,Nombre del Barrio,Popular,M,16,9997,6,2020-05-19 00:00:00,2020-05-19 00:00:00,CO:19532,Patía
+24,Olaya Herrera,-76.982111,2.109152,Georreferenciado,Nombre del Barrio,Olaya Herrera,F,15,9997,6,2020-02-13 00:00:00,2020-02-13 00:00:00,CO:19532,Patía
+24,Olaya Herrera,-76.982111,2.109152,Georreferenciado,Nombre del Barrio,Olaya Herrera,M,8,9999,6,2020-09-03 00:00:00,2020-08-31 00:00:00,CO:19532,Patía
+24,Olaya Herrera,-76.982111,2.109152,Georreferenciado,Nombre del Barrio,Olaya Herrera,M,6,9999,6,2021-01-09 00:00:00,2021-01-02 00:00:00,CO:19532,Patía
+25,Calle Nueva,-76.984164,2.111739,Georreferenciado,Nombre del Barrio,Calle Nueva,M,16,9997,6,2020-09-29 00:00:00,2020-09-26 00:00:00,CO:19532,Patía
+25,Calle Nueva,-76.984164,2.111739,Georreferenciado,Nombre del Barrio,Calle Nueva,M,30,9622,6,2021-03-23 00:00:00,2021-03-22 00:00:00,CO:19532,Patía
+28,Hospital,-76.983471,2.114023,Georreferenciado,Nombre del Barrio,Barrio Hospital,M,42,5222,6,2020-06-23 00:00:00,2020-06-16 00:00:00,CO:19532,Patía
+28,Hospital,-76.983471,2.114023,Georreferenciado,Nombre del Barrio,Barrio Hospital,M,10,9997,6,2020-11-20 00:00:00,2020-11-20 00:00:00,CO:19532,Patía
+177,CL 5 1-17,-76.986451,2.113992,Georreferenciado,Nombre del Barrio,Centro,M,18,9997,6,2020-11-13 00:00:00,2020-11-08 00:00:00,CO:19532,Patía
+178,KR 6 6-74,-76.983295,2.111504,Georreferenciado,Nombre del Barrio,Hueco Lindo,F,14,9997,6,2021-03-11 00:00:00,2021-03-07 00:00:00,CO:19532,Patía
+139,CRA 6 7-15,-76.229124,3.251464,Geocodificación,Nombre del Barrio,CENTRO,F,17,9997,6,2020-03-09 00:00:00,2020-03-08 00:00:00,CO:19455,Miranda
+143,CALLE 9 7-24,-76.229717,3.252706,Geocodificación,Nombre del Barrio,CENTRO,M,15,9997,6,2020-04-06 00:00:00,2020-04-04 00:00:00,CO:19455,Miranda
+160,CALLE 6 9A-03,-76.231651,3.251065,Geocodificación,Nombre del Barrio,UNIDOS,M,12,9997,6,2020-10-13 00:00:00,2020-10-11 00:00:00,CO:19455,Miranda
+151,CRA 7 5-45,-76.229766,3.250392,Geocodificación,Nombre del Barrio,CENTRO,M,13,9997,6,2020-06-21 00:00:00,2020-06-16 00:00:00,CO:19455,Miranda
+155,CALLE 5 4-42,-76.228222,3.249771,Geocodificación,Nombre del Barrio,CENTRO,F,4,9999,6,2020-07-27 00:00:00,2020-07-20 00:00:00,CO:19455,Miranda
+158,CALLE 5 8A-56,-76.231261,3.250039,Geocodificación,Nombre del Barrio,EL TRIUNFO,F,34,9996,6,2020-09-21 00:00:00,2020-09-20 00:00:00,CO:19455,Miranda
+156,CALLE 5 9-56,-76.231728,3.250076,Geocodificación,Nombre del Barrio,EL TRIUNFO,F,2,9999,6,2020-08-18 00:00:00,2020-08-16 00:00:00,CO:19455,Miranda
+153,CALLE 5 9-14,-76.231598,3.250065,Geocodificación,Nombre del Barrio,EL TRIUNFO,M,57,9999,6,2020-07-16 00:00:00,2020-07-13 00:00:00,CO:19455,Miranda
+162,CALLE 4C 10-36,-76.232588,3.249812,Geocodificación,Nombre del Barrio,LA CABAÑA,F,25,3351,6,2020-11-03 00:00:00,2020-11-03 00:00:00,CO:19455,Miranda
+147,CRA 10A 4B-17,-76.232781,3.249611,Geocodificación,Nombre del Barrio,LA CABAÑA,M,12,9999,6,2020-06-05 00:00:00,2020-05-30 00:00:00,CO:19455,Miranda
+132,CRA 12 4B-4,-76.233759,3.249669,Geocodificación,Nombre del Barrio,LA CABAÑA,F,45,9996,6,2020-02-03 00:00:00,2020-02-01 00:00:00,CO:19455,Miranda
+148,CRA 9 4-25,-76.231575,3.24939,Geocodificación,Nombre del Barrio,EL TRIUNFO,M,6,9997,6,2020-06-10 00:00:00,2020-06-06 00:00:00,CO:19455,Miranda
+168,CRA 16 4A-88,-76.236679,3.248936,Geocodificación,Nombre del Barrio,SUERTE CUARENTA,F,1,9999,6,2020-12-05 00:00:00,2020-12-05 00:00:00,CO:19455,Miranda
+133,CRA 8 3-19,-76.230802,3.248527,Geocodificación,Nombre del Barrio,SAN ANTONIO,F,17,9997,6,2020-04-25 00:00:00,2020-04-21 00:00:00,CO:19455,Miranda
+144,CALLE 4 8A-8,-76.231157,3.249118,Geocodificación,Nombre del Barrio,SAN ANTONIO,M,12,9997,6,2020-04-25 00:00:00,2020-04-22 00:00:00,CO:19455,Miranda
+149,CRA 8 3-39,-76.230794,3.248632,Geocodificación,Nombre del Barrio,SAN ANTONIO,M,8,9997,6,2020-06-11 00:00:00,2020-06-10 00:00:00,CO:19455,Miranda
+170,CALLE  4 9-96,-76.232699,3.249086,Geocodificación,Nombre del Barrio,UNIDOS,M,9,9999,6,2020-02-17 00:00:00,2020-02-12 00:00:00,CO:19455,Miranda
+159,CALLE 2 4-19,-76.228282,3.247306,Geocodificación,Nombre del Barrio,SAN ANTONIO,M,21,9997,6,2020-10-05 00:00:00,2020-10-05 00:00:00,CO:19455,Miranda
+173,CALLE 8 9A-15,-76.232149,3.252213,Geocodificación,Nombre del Barrio,UNIDOS,M,7,9999,6,2020-12-24 00:00:00,2020-12-18 00:00:00,CO:19455,Miranda
+157,CRA 11 5A-16,-76.233059,3.250709,Geocodificación,Nombre del Barrio,LA CABAÑA,F,10,9997,6,2020-09-10 00:00:00,2020-09-07 00:00:00,CO:19455,Miranda
+154,CRA 11 5-10,-76.233088,3.25037,Geocodificación,Nombre del Barrio,LA CABAÑA,F,5,9997,6,2020-07-21 00:00:00,2020-07-18 00:00:00,CO:19455,Miranda
+137,CRA 4 11C-14,-76.227273,3.255459,Geocodificación,Nombre del Barrio,BR EL ROSARIO,F,11,9999,6,2020-02-26 00:00:00,2020-02-24 00:00:00,CO:19455,Miranda
+172,CRA 4 11C-14,-76.227273,3.255459,Geocodificación,Nombre del Barrio,BR EL ROSARIO,M,14,9997,6,2020-03-12 00:00:00,2020-03-05 00:00:00,CO:19455,Miranda
+138,CALLE 11D 3-14,-76.227007,3.255732,Geocodificación,Nombre del Barrio,BR EL ROSARIO,M,6,9997,6,2020-03-14 00:00:00,2020-03-09 00:00:00,CO:19455,Miranda
+171,CRA 4 11C-14,-76.227273,3.255459,Geocodificación,Nombre del Barrio,BR EL ROSARIO,F,26,9996,6,2020-03-03 00:00:00,2020-02-27 00:00:00,CO:19455,Miranda
+141,CRA 5 11A-28,-76.228192,3.254752,Geocodificación,Nombre del Barrio,BR EL ROSARIO,F,11,9997,6,2020-03-13 00:00:00,2020-03-09 00:00:00,CO:19455,Miranda
+140,CRA 5 10-23,-76.228486,3.253395,Geocodificación,Nombre del Barrio,BR EL ROSARIO,F,4,9997,6,2020-03-14 00:00:00,2020-03-09 00:00:00,CO:19455,Miranda
+174,CRA 11 11-22,-76.232612,3.254571,Geocodificación,Nombre del Barrio,PORVENIR,F,2,9999,6,2020-06-17 00:00:00,2020-06-14 00:00:00,CO:19455,Miranda
+142,CRA 3 11-1,-76.226676,3.25393,Geocodificación,Nombre del Barrio,BR EL ROSARIO,M,15,9999,6,2020-03-12 00:00:00,2020-03-06 00:00:00,CO:19455,Miranda
+164,CALLE 11 3-56,-76.227093,3.253853,Geocodificación,Nombre del Barrio,BR EL ROSARIO,M,10,9999,6,2020-12-01 00:00:00,2020-11-29 00:00:00,CO:19455,Miranda
+134,CALLE 11C 4-21,-76.227538,3.255439,Geocodificación,Nombre del Barrio,BR EL ROSARIO,M,11,9997,5,2020-02-27 00:00:00,2020-02-23 00:00:00,CO:19455,Miranda
+136,CALLE 11C 4-24,-76.227557,3.255397,Geocodificación,Nombre del Barrio,BR EL ROSARIO,M,9,9997,6,2020-03-01 00:00:00,2020-02-26 00:00:00,CO:19455,Miranda
+135,CRA 4 11B-9,-76.227425,3.255078,Geocodificación,Nombre del Barrio,BR EL ROSARIO,F,15,9997,6,2020-03-03 00:00:00,2020-02-26 00:00:00,CO:19455,Miranda
+146,CALLE 6 2-54,-76.226489,3.250492,Geocodificación,Nombre del Barrio,LEOPOLDO,M,32,2164,6,2020-05-28 00:00:00,2020-05-28 00:00:00,CO:19455,Miranda
+167,CALLE 4 3-05,-76.227182,3.248905,Geocodificación,Nombre del Barrio,LA ESPERANZA,M,10,9997,6,2020-12-26 00:00:00,2020-12-24 00:00:00,CO:19455,Miranda
+131,CRA 3 4-31,-76.227101,3.24916,Geocodificación,Nombre del Barrio,LA ESPERANZA,M,20,9999,6,2020-01-13 00:00:00,2020-01-11 00:00:00,CO:19455,Miranda
+165,CALLE 3 2-72,-76.22693,3.247834,Geocodificación,Nombre del Barrio,LA CASTELLANA,F,12,9997,6,2020-05-20 00:00:00,2020-05-14 00:00:00,CO:19455,Miranda
+161,CALLE 3 1-30,-76.225773,3.2477,Geocodificación,Nombre del Barrio,LA CASTELLANA,M,3,9999,6,2020-12-01 00:00:00,2020-11-30 00:00:00,CO:19455,Miranda
+166,CRA 8B 12B-11,-76.229525,3.258544,Geocodificación,Nombre del Barrio,LA COLOMBIANA,F,17,9997,6,2020-10-19 00:00:00,2020-10-16 00:00:00,CO:19455,Miranda
+152,CRA 8 12B-29,-76.228944,3.25848,Geocodificación,Nombre del Barrio,LA COLOMBIANA,M,34,8331,6,2020-12-14 00:00:00,2020-12-13 00:00:00,CO:19455,Miranda
+150,CRA 7A 12B-18,-76.228321,3.258316,Geocodificación,Nombre del Barrio,LA COLOMBIANA,M,32,2149,6,2020-05-28 00:00:00,2020-05-28 00:00:00,CO:19455,Miranda
+163,CALLE 13 9-03,-76.229874,3.259094,Geocodificación,Nombre del Barrio,COLSEGUROS,M,14,9997,6,2020-07-06 00:00:00,2020-07-01 00:00:00,CO:19455,Miranda
+145,CALLE 23A 2-71,-76.221855,3.268886,Geocodificación,Nombre del Barrio,PIEDRA Y CIELO,M,7,9997,1,2020-06-17 00:00:00,2020-06-13 00:00:00,CO:19455,Miranda
+169,CALLE 5 KRA 8A ESQUINA BARRIO EL TRIUNFO,-76.230978,3.250101,Geocodificación,Nombre del Barrio,EL TRIUNFO,M,7,9997,6,2020-11-23 00:00:00,2020-11-23 00:00:00,CO:19455,Miranda
+128,CALLE 8 7-38,-76.229777,3.252193,Geocodificación,Nombre del Barrio,CENTRO,M,8,9999,6,2021-10-25 00:00:00,2021-10-20 00:00:00,CO:19455,Miranda
+127,CALLE 7 9-37,-76.231857,3.251876,Geocodificación,Nombre del Barrio,UNIDOS,M,64,9999,6,2021-09-20 00:00:00,2021-09-15 00:00:00,CO:19455,Miranda
+129,CRA 9A 3A-28,-76.232005,3.248876,Geocodificación,Nombre del Barrio,SAN ANTONIO,M,6,9997,6,2022-01-01 00:00:00,2021-12-31 00:00:00,CO:19455,Miranda
+126,CRA 11B 8B-34,-76.233646,3.252489,Geocodificación,Nombre del Barrio,LA CABAÑA,F,1,9999,6,2021-06-23 00:00:00,2021-06-21 00:00:00,CO:19455,Miranda
+130,CRA 3 3-40,-76.227046,3.248262,Geocodificación,Nombre del Barrio,LA ESPERANZA,M,13,9997,6,2021-01-20 00:00:00,2021-01-16 00:00:00,CO:19455,Miranda
+125,CRA 3 2-17,-76.227272,3.247334,Geocodificación,Nombre del Barrio,LA CASTELLANA,M,9,9999,6,2021-07-02 00:00:00,2021-06-29 00:00:00,CO:19455,Miranda
+123,CRA 2 1-26,-76.226369,3.246369,Geocodificación,Nombre del Barrio,LA CASTELLANA,F,20,5221,6,2021-02-20 00:00:00,2021-02-15 00:00:00,CO:19455,Miranda
+124,CRA 8C 12B-36 MIRANDA,-76.229727,3.258686,Geocodificación,Nombre del Barrio,LA COLOMBIANA,M,3,9999,6,2021-03-01 00:00:00,2021-02-27 00:00:00,CO:19455,Miranda
+62,"C 19  # 6 - 73, EL ESPEJUELO",-76.224928,3.26603,Geocodificación,Nombre del Barrio,El Espejuelo,F,16,9997,5,2016-05-09 00:00:00,2016-05-07 00:00:00,CO:19455,Miranda
+96,K 10 # 12A - 40,-76.231212,3.258852,Geocodificación,Nombre del Barrio,La Colombiana,M,16,9999,6,2019-07-16 00:00:00,2019-07-11 00:00:00,CO:19455,Miranda
+35,CRA 6 # 3-36 SAN ANTONIO,-76.229473,3.248539,Geocodificación,Nombre del Barrio,San Antonio,M,22,9997,6,2016-01-14 00:00:00,2016-01-09 00:00:00,CO:19455,Miranda
+50,CRA 10 # 12A-69 EL PROVENIR,-76.231153,3.259058,Geocodificación,Nombre del Barrio,La Colombiana,F,18,9997,6,2016-01-18 00:00:00,2016-01-14 00:00:00,CO:19455,Miranda
+113,"KARRERA4 CONCALLE11A NUMERO 11-01, EL ROSARIO",-76.227994,3.256744,Georreferenciado,Nombre del Barrio,El Rosario,F,9,9997,1,2019-03-05 00:00:00,2019-03-03 00:00:00,CO:19455,Miranda
+53,"CALLE 11 # 8-33, RUIZ",-76.230641,3.254257,Geocodificación,Nombre del Barrio,Ruíz,F,38,9996,6,2016-02-02 00:00:00,2016-01-29 00:00:00,CO:19455,Miranda
+44,CRA 4 # 2-21,-76.228245,3.247535,Geocodificación,Nombre del Barrio,San Antonio,M,6,9998,6,2016-02-03 00:00:00,2016-02-02 00:00:00,CO:19455,Miranda
+60,"KR 8VA  # 5 - 16, CENTRAL",-76.230624,3.250436,Geocodificación,Nombre del Barrio,Centro,M,16,9997,6,2016-02-02 00:00:00,2016-01-27 00:00:00,CO:19455,Miranda
+49,CARRERA 3  # 10 - 68,-76.226813,3.253612,Geocodificación,Nombre del Barrio,El Rosario,F,13,9997,6,2016-01-14 00:00:00,2016-01-14 00:00:00,CO:19455,Miranda
+112,CARRERA 1A # 57-02 BARRIO MIRALINDO,-76.226858,3.245801,Georreferenciado,Nombre del Barrio,Miralindo,F,44,9996,1,2016-02-09 00:00:00,2016-02-09 00:00:00,CO:19455,Miranda
+97,PORVENIR CALLE 13N°11-09,-76.231715,3.259499,Geocodificación,Nombre del Barrio,El Porvenir,F,7,9997,6,2019-03-21 00:00:00,2019-03-15 00:00:00,CO:19455,Miranda
+71,"CALLE 2 # 7-41, SAN ANTONIO",-76.230511,3.247479,Geocodificación,Nombre del Barrio,San Antonio,M,6,9999,6,2019-04-16 00:00:00,2019-04-15 00:00:00,CO:19455,Miranda
+42,"CRA 1 # 7-38, LEOPOLDO PIZARRO",-76.225218,3.251419,Geocodificación,Nombre del Barrio,Leopoldo,F,10,9997,6,2016-02-18 00:00:00,2016-02-14 00:00:00,CO:19455,Miranda
+58,"CALLE 11A N 3-35, EL ROSARIO",-76.227034,3.25451,Geocodificación,Nombre del Barrio,El Rosario,F,17,9997,6,2016-02-15 00:00:00,2016-02-14 00:00:00,CO:19455,Miranda
+32,CALLE 13A N 7-49 COLSEGUROS,-76.228154,3.259079,Geocodificación,Nombre del Barrio,Colseguros,M,14,9997,6,2016-02-16 00:00:00,2016-02-13 00:00:00,CO:19455,Miranda
+75,"CRA 6 # 3-63, SAN ANTONIO",-76.22948,3.2488,Geocodificación,Nombre del Barrio,San Antonio,F,9,9997,6,2019-04-22 00:00:00,2019-04-21 00:00:00,CO:19455,Miranda
+111,BARRIO LA COLOMBIANA,-76.229864,3.257934,Georreferenciado,Nombre del Barrio,La Colombiana,M,55,2311,1,2016-02-16 00:00:00,2016-02-13 00:00:00,CO:19455,Miranda
+109,"CALLE 8B# 13B-16, COLSEGUROS",-76.229224,3.259539,Georreferenciado,Nombre del Barrio,Colseguros,F,15,9997,6,2016-02-19 00:00:00,2016-02-15 00:00:00,CO:19455,Miranda
+73,"CRA 8 B # 12B-02, LA COLOMBIANA",-76.229585,3.258656,Geocodificación,Nombre del Barrio,La Colombiana,M,10,9997,6,2019-04-28 00:00:00,2019-04-24 00:00:00,CO:19455,Miranda
+78,"CALLE 6 B #11-55, LA CABAÑA",-76.233583,3.251756,Geocodificación,Nombre del Barrio,La Cabaña,M,12,9997,6,2019-05-15 00:00:00,2019-05-11 00:00:00,CO:19455,Miranda
+77,K 11 #5A-16 LA CABAÑA MIRANDA,-76.233184,3.250846,Geocodificación,Nombre del Barrio,La Cabaña,M,17,9997,6,2019-05-11 00:00:00,2019-05-05 00:00:00,CO:19455,Miranda
+99,"CRA 13 A 25, PORVENIR",-76.232175,3.257856,Georreferenciado,Nombre del Barrio,El Porvenir,M,24,9999,6,2016-01-01 00:00:00,2015-12-30 00:00:00,CO:19455,Miranda
+0,"CALLE 10 9 B 24, EL RUIZ",-76.231735,3.253536,Geocodificación,Nombre del Barrio,Ruíz,F,16,9997,6,2015-12-22 00:00:00,2015-12-17 00:00:00,CO:19455,Miranda
+31,"CARRERA 1 7-37, LEOPOLDO PIZARRO",-76.225271,3.251361,Geocodificación,Nombre del Barrio,Leopoldo,F,14,9996,6,2016-01-16 00:00:00,2016-01-13 00:00:00,CO:19455,Miranda
+79,CALLE 6A # 11 - 36,-76.233435,3.251409,Geocodificación,Nombre del Barrio,La Cabaña,M,2,9999,6,2019-05-23 00:00:00,2019-05-22 00:00:00,CO:19455,Miranda
+76,"CLL 7 # 10-18, LA CABAÑA",-76.232852,3.252031,Geocodificación,Nombre del Barrio,La Cabaña,M,5,9999,6,2019-05-05 00:00:00,2019-04-30 00:00:00,CO:19455,Miranda
+36,"CL 10 # 3 - 17, ROSARIO",-76.227054,3.253117,Geocodificación,Nombre del Barrio,El Rosario,M,4,9997,6,2016-03-02 00:00:00,2016-02-01 00:00:00,CO:19455,Miranda
+69,K 1 # 7-64,-76.225187,3.251646,Geocodificación,Nombre del Barrio,Leopoldo,F,34,9996,6,2019-01-16 00:00:00,2019-01-14 00:00:00,CO:19455,Miranda
+80,K 7 # 3 - 41,-76.230005,3.248673,Geocodificación,Nombre del Barrio,San Antonio,F,4,9999,6,2019-05-27 00:00:00,2019-05-22 00:00:00,CO:19455,Miranda
+72,CALLE 6 A # 11-56,-76.2336,3.251432,Geocodificación,Nombre del Barrio,La Cabaña,F,19,9999,6,2019-04-24 00:00:00,2019-04-21 00:00:00,CO:19455,Miranda
+91,CRA 8 C 12B-11,-76.229872,3.258732,Geocodificación,Nombre del Barrio,La Colombiana,F,19,9997,6,2019-06-05 00:00:00,2019-06-01 00:00:00,CO:19455,Miranda
+90,CALLE 12 N° 12-25 B PORVENIR,-76.232655,3.257072,Geocodificación,Nombre del Barrio,El Porvenir,M,8,9997,6,2019-05-29 00:00:00,2019-05-20 00:00:00,CO:19455,Miranda
+107,"C  8  #  7  11, CENTRAL",-76.229274,3.25093,Georreferenciado,Nombre del Barrio,Centro,M,11,9997,6,2016-03-07 00:00:00,2016-03-05 00:00:00,CO:19455,Miranda
+74,CALLE 4#1-09,-76.225748,3.248747,Geocodificación,Nombre del Barrio,La Esperanza,F,11,9999,6,2019-04-29 00:00:00,2019-04-27 00:00:00,CO:19455,Miranda
+82,"CALLE 24 # 6-10, PIEDRA Y CIELO",-76.223208,3.27012,Geocodificación,Nombre del Barrio,Piedra y Cielo,M,68,9995,6,2019-06-13 00:00:00,2019-06-08 00:00:00,CO:19455,Miranda
+81,CALLE 6 # 2-23 BARRIO LEPOLDO,-76.226438,3.250612,Geocodificación,Nombre del Barrio,Leopoldo,F,5,9999,6,2019-06-07 00:00:00,2019-06-05 00:00:00,CO:19455,Miranda
+83,"CRA 5 # 2-23, SAN ANTONIO",-76.229041,3.247655,Geocodificación,Nombre del Barrio,San Antonio,M,17,9997,6,2019-06-17 00:00:00,2019-06-13 00:00:00,CO:19455,Miranda
+92,CRA9B # 13-44,-76.23046,3.259578,Geocodificación,Nombre del Barrio,Colseguros,F,8,9997,6,2019-06-21 00:00:00,2019-06-17 00:00:00,CO:19455,Miranda
+70,"CRA 7 # 14-66, CUATRO ESQUINAS",-76.226971,3.260727,Geocodificación,Nombre del Barrio,El Rosario,M,8,9997,6,2019-06-28 00:00:00,2019-06-23 00:00:00,CO:19455,Miranda
+64,CALLE 13B # 9A-12,-76.230203,3.259841,Geocodificación,Nombre del Barrio,Colseguros,M,14,9997,6,2016-04-01 00:00:00,2016-03-26 00:00:00,CO:19455,Miranda
+56,"CRA 4 # 5 -30, LEOPOLDO PIZARRO",-76.227848,3.250239,Geocodificación,Nombre del Barrio,Leopoldo,F,47,3414,6,2016-03-23 00:00:00,2016-03-21 00:00:00,CO:19455,Miranda
+55,"CRA 7B N13-44, COLSEGUROS",-76.22865,3.258845,Geocodificación,Nombre del Barrio,Colseguros,F,72,9996,6,2016-03-29 00:00:00,2016-03-24 00:00:00,CO:19455,Miranda
+61,CALLE 7 # 6 - 16,-76.229381,3.251449,Geocodificación,Nombre del Barrio,Centro,M,16,9997,5,2016-03-31 00:00:00,2016-03-27 00:00:00,CO:19455,Miranda
+41,CRA 11A # 7-16 L CABAÑA,-76.233451,3.252208,Geocodificación,Nombre del Barrio,La Cabaña,F,11,9997,6,2016-03-14 00:00:00,2016-03-10 00:00:00,CO:19455,Miranda
+65,CRA 9C # 13B - 89,-76.230635,3.260273,Geocodificación,Nombre del Barrio,Colseguros,M,8,9999,6,2016-04-07 00:00:00,2016-04-03 00:00:00,CO:19455,Miranda
+84,"CALLE 9 #9-31, UNIDOS",-76.231833,3.253062,Geocodificación,Nombre del Barrio,Ruíz,M,11,9997,6,2019-07-08 00:00:00,2019-07-04 00:00:00,CO:19455,Miranda
+108,BARRIO EL PORVENIR,-76.232175,3.257856,Georreferenciado,Nombre del Barrio,El Porvenir,F,7,9997,1,2016-04-08 00:00:00,2016-04-04 00:00:00,CO:19455,Miranda
+114,"CRA 7 # 11-12, LA COLOMBIANA",-76.229864,3.257934,Georreferenciado,Nombre del Barrio,La Colombiana,M,34,9999,6,2019-07-10 00:00:00,2019-07-10 00:00:00,CO:19455,Miranda
+67,"CRA 12A N 12-15, PORVENIR",-76.232788,3.257333,Geocodificación,Nombre del Barrio,El Porvenir,M,32,6115,6,2016-04-05 00:00:00,2016-04-04 00:00:00,CO:19455,Miranda
+93,"CRA 12 # 12-15, PORVENIR",-76.232504,3.257259,Geocodificación,Nombre del Barrio,El Porvenir,M,38,9999,6,2019-07-18 00:00:00,2019-07-13 00:00:00,CO:19455,Miranda
+40,CALLE 5 N 3-26,-76.227494,3.249897,Geocodificación,Nombre del Barrio,Leopoldo,M,21,9997,6,2016-04-08 00:00:00,2016-04-08 00:00:00,CO:19455,Miranda
+94,BARRIO EL PORVENIR CRA 11-12 BIS 40,-76.232005,3.258083,Geocodificación,Nombre del Barrio,El Porvenir,F,11,9997,6,2019-07-23 00:00:00,2019-07-19 00:00:00,CO:19455,Miranda
+85,"KR 7 7 48, CENTRO",-76.229641,3.251848,Geocodificación,Nombre del Barrio,Centro,M,11,9997,6,2019-08-01 00:00:00,2019-07-27 00:00:00,CO:19455,Miranda
+115,BARRIO EL PORVENIR,-76.232175,3.257856,Georreferenciado,Nombre del Barrio,El Porvenir,M,16,9997,6,2019-08-09 00:00:00,2019-08-08 00:00:00,CO:19455,Miranda
+29,"CALLE 12A N 12-22, PORVENIR",-76.232268,3.258657,Geocodificación,Nombre del Barrio,El Porvenir,M,14,9997,6,2016-04-18 00:00:00,2016-04-17 00:00:00,CO:19455,Miranda
+116,BARRIO EL PORVENIR,-76.232175,3.257856,Georreferenciado,Nombre del Barrio,El Porvenir,F,21,9996,6,2019-08-12 00:00:00,2019-08-09 00:00:00,CO:19455,Miranda
+63,"CALLA 13 N 8ABIS-78, COLSEGUROS",-76.229099,3.258935,Geocodificación,Nombre del Barrio,Colseguros,M,14,9997,6,2016-04-18 00:00:00,2016-04-15 00:00:00,CO:19455,Miranda
+117,CARRERA 5 NUM 19-70 ESPEJUELO,-76.224594,3.265994,Georreferenciado,Nombre del Barrio,El Espejuelo,M,10,9997,6,2019-08-22 00:00:00,2019-08-16 00:00:00,CO:19455,Miranda
+89,CRA 8 NUM 10-43,-76.230359,3.253867,Geocodificación,Nombre del Barrio,Ruíz,M,12,9997,6,2019-08-02 00:00:00,2019-07-30 00:00:00,CO:19455,Miranda
+98,CARRERA 11 NUM 12A- 74,-76.231712,3.259274,Geocodificación,Nombre del Barrio,El Porvenir,M,15,9997,6,2019-08-12 00:00:00,2019-08-11 00:00:00,CO:19455,Miranda
+118,CUATRO ESQUINAS,-76.227994,3.256744,Georreferenciado,Nombre del Barrio,El Rosario,F,22,9999,6,2019-09-03 00:00:00,2019-09-03 00:00:00,CO:19455,Miranda
+59,CRA 9C # 12B-17 COLOMBIANA,-76.230965,3.258982,Geocodificación,Nombre del Barrio,La Colombiana,F,17,9997,6,2016-04-30 00:00:00,2016-04-28 00:00:00,CO:19455,Miranda
+46,"CRA  8  N 2-44, SAN ANTONIO",-76.230897,3.247992,Geocodificación,Nombre del Barrio,San Antonio,M,20,9997,6,2016-04-26 00:00:00,2016-04-22 00:00:00,CO:19455,Miranda
+51,CALLE  13 # 11-59,-76.231803,3.259521,Geocodificación,Nombre del Barrio,El Porvenir,M,32,9999,6,2016-04-29 00:00:00,2016-04-23 00:00:00,CO:19455,Miranda
+119,CARRERA 5 #  16- 19 BARRIO EL ESPEJUELO,-76.224594,3.265994,Georreferenciado,Nombre del Barrio,El Espejuelo,M,35,9622,6,2019-09-06 00:00:00,2019-09-06 00:00:00,CO:19455,Miranda
+95,CRA 8 NUM 12 A -13 BLA COLOMBIANA,-76.229108,3.258105,Geocodificación,Nombre del Barrio,La Colombiana,F,30,9996,6,2019-09-22 00:00:00,2019-09-19 00:00:00,CO:19455,Miranda
+48,"CALLE 11 C #  8B-35, LA CRISTIANA",-76.230487,3.255981,Geocodificación,Nombre del Barrio,La Cristiana,F,25,9999,6,2016-05-12 00:00:00,2016-05-11 00:00:00,CO:19455,Miranda
+39,"CALLE 2 # 3-09, CASTELLANA",-76.227577,3.247263,Geocodificación,Nombre del Barrio, La Castellana,M,11,9997,6,2016-05-05 00:00:00,2016-05-04 00:00:00,CO:19455,Miranda
+33,"CLL 6 · 3 - 34, LEOPOLDO PIZARRO",-76.227355,3.250681,Geocodificación,Nombre del Barrio,Leopoldo,M,30,9999,6,2016-05-12 00:00:00,2016-05-09 00:00:00,CO:19455,Miranda
+45,"CRA 7 # 1S-22, SAN ANTONIO",-76.230135,3.246886,Geocodificación,Nombre del Barrio,San Antonio,M,21,9999,6,2016-05-22 00:00:00,2016-05-19 00:00:00,CO:19455,Miranda
+43,"CRA 11 N 5A-10, LA CABAÑA",-76.233182,3.250792,Geocodificación,Nombre del Barrio,La Cabaña,M,26,5149,6,2016-05-16 00:00:00,2016-05-15 00:00:00,CO:19455,Miranda
+54,K 5 #6-10,-76.228702,3.250982,Geocodificación,Nombre del Barrio,Centro,F,51,9999,6,2016-05-13 00:00:00,2016-05-09 00:00:00,CO:19455,Miranda
+47,CRA 4 # 1-18 MIRALINDO,-76.228412,3.246279,Geocodificación,Nombre del Barrio,Miralindo,F,18,9999,6,2016-04-30 00:00:00,2016-04-25 00:00:00,CO:19455,Miranda
+57,CALLE 1 B SUR # 1-38,-76.226397,3.245598,Geocodificación,Nombre del Barrio,Miralindo,M,18,9997,6,2016-03-23 00:00:00,2016-03-18 00:00:00,CO:19455,Miranda
+34,CALLE  4 A N 8-A-20,-76.23134,3.249229,Geocodificación,Nombre del Barrio,San Antonio,F,6,9998,6,2016-05-24 00:00:00,2016-05-22 00:00:00,CO:19455,Miranda
+52,CRA 6 # 4-34 BARRIO CENTRAL,-76.229375,3.249555,Geocodificación,Nombre del Barrio,Centro,F,71,9996,6,2016-05-28 00:00:00,2016-05-26 00:00:00,CO:19455,Miranda
+86,CALLE 4 NUM 5-18 BCENTRAL,-76.229062,3.249127,Geocodificación,Nombre del Barrio,Centro,F,39,9999,6,2019-10-10 00:00:00,2019-10-04 00:00:00,CO:19455,Miranda
+87,CARRERA 5 CALLE 8,-76.228653,3.252177,Geocodificación,Nombre del Barrio,Centro,F,19,9639,6,2019-10-24 00:00:00,2019-10-21 00:00:00,CO:19455,Miranda
+37,CRA 9 B # 5-35,-76.232366,3.25067,Geocodificación,Nombre del Barrio,Unidos,F,9,9997,6,2016-05-08 00:00:00,2016-05-05 00:00:00,CO:19455,Miranda
+120,"CR 7 CLL 18 # 5-22, EL ESPEJUELO",-76.224594,3.265994,Georreferenciado,Nombre del Barrio,El Espejuelo,M,2,9999,6,2019-10-19 00:00:00,2019-10-15 00:00:00,CO:19455,Miranda
+66,K 8A  #  13D-38,-76.228893,3.260045,Geocodificación,Nombre del Barrio,Colseguros,M,8,9999,6,2016-06-03 00:00:00,2016-05-28 00:00:00,CO:19455,Miranda
+121,"CALLE 13 A #13A-08, COLSEGUROS",-76.229224,3.259539,Georreferenciado,Nombre del Barrio,Colseguros,M,8,9997,6,2019-12-05 00:00:00,2019-12-03 00:00:00,CO:19455,Miranda
+88,"CALLE 4TA # 2AE-14, PORTALES",-76.224936,3.248869,Geocodificación,Nombre del Barrio,Portal de Miranda,F,4,9999,6,2019-12-15 00:00:00,2019-12-11 00:00:00,CO:19455,Miranda
+122,CRA 4 # 13-47  (cercania barrio El Rosario,-76.227994,3.256744,Georreferenciado,Nombre del Barrio,El Rosario,M,7,9999,6,2019-12-24 00:00:00,2019-12-22 00:00:00,CO:19455,Miranda
+110,SUERTE 40 MANZANA 1,-76.236254,3.248939,Georreferenciado,Nombre del Barrio,Suerte Cuarenta,M,35,8323,6,2016-07-10 00:00:00,2016-07-03 00:00:00,CO:19455,Miranda
+106,BARRIO UNIDOS,-76.231637,3.251869,Georreferenciado,Nombre del Barrio,Unidos,F,14,9997,6,2016-08-05 00:00:00,2016-08-05 00:00:00,CO:19455,Miranda
+38,"CRA 3 N 1A-13, CASTELLANA",-76.227435,3.246922,Geocodificación,Nombre del Barrio, La Castellana,F,1,9999,6,2016-09-06 00:00:00,2016-09-02 00:00:00,CO:19455,Miranda
+30,CALLE 6 A # 9 B 08,-76.232429,3.251331,Geocodificación,Nombre del Barrio,Unidos,F,14,9998,6,2016-08-02 00:00:00,2016-08-01 00:00:00,CO:19455,Miranda
+68,C 11 # 3-39,-76.227132,3.253961,Geocodificación,Nombre del Barrio,El Rosario,M,25,9997,6,2017-04-18 00:00:00,2017-04-17 00:00:00,CO:19455,Miranda
+100,PORTAL DE MIRANDA,-76.224699,3.249058,Georreferenciado,Nombre del Barrio,Portal de Miranda,F,35,9996,6,2015-01-10 00:00:00,2015-01-07 00:00:00,CO:19455,Miranda
+1,"CRA5A 4-56, CENTRAL",-76.228805,3.249608,Geocodificación,Nombre del Barrio,Centro,F,56,9996,6,2015-01-16 00:00:00,2015-01-16 00:00:00,CO:19455,Miranda
+101,CUATRO ESQUINAS,-76.227994,3.256744,Georreferenciado,Nombre del Barrio,El Rosario,M,26,9999,6,2015-01-11 00:00:00,2015-01-11 00:00:00,CO:19455,Miranda
+2,"CRA8Nº2-24, SAN ANTONIO",-76.230896,3.247797,Geocodificación,Nombre del Barrio,San Antonio,M,58,7312,6,2015-01-22 00:00:00,2015-01-19 00:00:00,CO:19455,Miranda
+3,CRA 8 # 2-38,-76.230897,3.247897,Geocodificación,Nombre del Barrio,San Antonio,F,39,3321,6,2015-01-20 00:00:00,2015-01-17 00:00:00,CO:19455,Miranda
+4,"CALLE4 8A32, SAN ANTONIO",-76.231427,3.249239,Geocodificación,Nombre del Barrio,San Antonio,M,23,3415,6,2015-01-21 00:00:00,2015-01-20 00:00:00,CO:19455,Miranda
+5,"CALLE 4 · 2-23, COLSEGUROS",-76.22659,3.248861,Geocodificación,Nombre del Barrio,La Esperanza,M,9,9998,6,2015-01-30 00:00:00,2015-01-28 00:00:00,CO:19455,Miranda
+6,"CRA  16 N 4A-66, SUERTE 40",-76.237316,3.248608,Geocodificación,Nombre del Barrio,Suerte Cuarenta,M,63,9999,6,2015-01-27 00:00:00,2015-01-25 00:00:00,CO:19455,Miranda
+7,CALLE 11A # 3-48,-76.227157,3.254532,Geocodificación,Nombre del Barrio,El Rosario,F,59,9996,6,2015-01-29 00:00:00,2015-01-27 00:00:00,CO:19455,Miranda
+102,COLSEGUROS,-76.229224,3.259539,Georreferenciado,Nombre del Barrio,Colseguros,F,6,9997,6,2015-02-02 00:00:00,2015-02-01 00:00:00,CO:19455,Miranda
+8,CALLE 6 · 9-16 UNIDOS,-76.232095,3.251118,Geocodificación,Nombre del Barrio,Unidos,M,24,9999,6,2015-02-18 00:00:00,2015-02-15 00:00:00,CO:19455,Miranda
+9,HACIENDA EL PARAISO,-76.224827,3.254344,Geocodificación,Nombre del Barrio,Hacienda el Paraíso,M,15,9997,6,2015-02-26 00:00:00,2015-02-23 00:00:00,CO:19455,Miranda
+103,BARRIO CENTRAL,-76.229274,3.25093,Georreferenciado,Nombre del Barrio,Centro,F,28,9999,1,2015-02-25 00:00:00,2015-02-23 00:00:00,CO:19455,Miranda
+10,"CALLE  3 N -2-21, LA ESPERANZA",-76.226782,3.247983,Geocodificación,Nombre del Barrio,La Esperanza,M,35,6115,6,2015-03-02 00:00:00,2015-03-01 00:00:00,CO:19455,Miranda
+11,CALLE 4 18-44,-76.238067,3.247966,Geocodificación,Nombre del Barrio,Suerte Cuarenta,M,46,9333,6,2015-02-02 00:00:00,2015-02-01 00:00:00,CO:19455,Miranda
+12,CALLE 6 # 2-33 SAN ANTONIO,-76.226568,3.250616,Geocodificación,Nombre del Barrio,Leopoldo,F,78,9996,5,2015-03-22 00:00:00,2015-03-17 00:00:00,CO:19455,Miranda
+13,"CRA 1 N -3, LA ESPERANZA",-76.225784,3.247872,Geocodificación,Nombre del Barrio,La Esperanza,M,48,9999,6,2015-03-26 00:00:00,2015-03-25 00:00:00,CO:19455,Miranda
+14,"CR 4 # 8 - 00, LEOPOLDO PIZARRO",-76.227755,3.252184,Geocodificación,Nombre del Barrio,Leopoldo,F,75,9996,6,2015-02-14 00:00:00,2015-02-09 00:00:00,CO:19455,Miranda
+15,CRA 11 N 5A-16 LA CABAÑA,-76.233184,3.250846,Geocodificación,Nombre del Barrio,La Cabaña,M,39,9999,6,2015-04-14 00:00:00,2015-04-13 00:00:00,CO:19455,Miranda
+16,"CRA 7 N 23-12, PIEDRA Y CIELO",-76.224326,3.268927,Geocodificación,Nombre del Barrio,Piedra y Cielo,M,50,4115,6,2015-04-13 00:00:00,2015-04-11 00:00:00,CO:19455,Miranda
+17,"CALLE 9 N 9-20, EL RUIZ",-76.2317,3.253065,Geocodificación,Nombre del Barrio,Ruíz,F,12,9997,5,2015-04-27 00:00:00,2015-04-22 00:00:00,CO:19455,Miranda
+18,"CRA 6 N 11A-54, EL ROSARIO",-76.228833,3.254973,Geocodificación,Nombre del Barrio,El Rosario,F,59,9996,5,2015-04-23 00:00:00,2015-04-19 00:00:00,CO:19455,Miranda
+104,BARRIO LA ESPERANZA,-76.226854,3.248766,Georreferenciado,Nombre del Barrio,La Esperanza,F,17,9997,1,2015-04-30 00:00:00,2015-04-23 00:00:00,CO:19455,Miranda
+19,"CRA 8 N 12B-23, LA COLOMBIANA",-76.229005,3.258587,Geocodificación,Nombre del Barrio,La Colombiana,F,64,9996,6,2015-05-05 00:00:00,2015-04-28 00:00:00,CO:19455,Miranda
+20,"CALLE 9 N 9-06, EL RUIZ",-76.231545,3.253031,Geocodificación,Nombre del Barrio,Ruíz,F,6,9998,6,2015-05-18 00:00:00,2015-05-18 00:00:00,CO:19455,Miranda
+21,"CALLE 1 A N 2-16, LA CASTELLANA",-76.226707,3.246695,Geocodificación,Nombre del Barrio,La Castellana,M,27,9133,6,2015-05-23 00:00:00,2015-05-22 00:00:00,CO:19455,Miranda
+22,"CRA 5 · 11C - 03, VILLA ROSALBA",-76.228307,3.255654,Geocodificación,Nombre del Barrio,El Rosario,M,48,9999,6,2015-05-27 00:00:00,2015-05-26 00:00:00,CO:19455,Miranda
+23,CRA 7 D # 13-53,-76.228663,3.258771,Geocodificación,Nombre del Barrio,La Colombiana,F,36,3310,6,2015-03-25 00:00:00,2015-03-25 00:00:00,CO:19455,Miranda
+24,CRA 6 Nº4-21,-76.229379,3.249412,Geocodificación,Nombre del Barrio,Centro,M,48,9999,6,2015-01-05 00:00:00,2015-01-02 00:00:00,CO:19455,Miranda
+25,CALLE 12 # 3-50,-76.227242,3.256244,Geocodificación,Nombre del Barrio,El Rosario,F,59,9996,6,2015-01-30 00:00:00,2015-01-29 00:00:00,CO:19455,Miranda
+26,CALLE 11 # 3-29,-76.227066,3.253948,Geocodificación,Nombre del Barrio,El Rosario,F,23,9996,6,2015-05-11 00:00:00,2015-05-08 00:00:00,CO:19455,Miranda
+105,"CALLE 4 CASAN-1, SUERTE 40",-76.236254,3.248939,Georreferenciado,Nombre del Barrio,Suerte Cuarenta,M,49,6111,6,2015-06-17 00:00:00,2015-06-14 00:00:00,CO:19455,Miranda
+27,"CALLE 3 N 2-05, LA ESPERANZA",-76.226611,3.247959,Geocodificación,Nombre del Barrio,La Esperanza,F,1,9998,6,2015-12-28 00:00:00,2015-12-25 00:00:00,CO:19455,Miranda
+28,"CALLE10 N 7-45, EL RUIZ",-76.229972,3.253376,Geocodificación,Nombre del Barrio,Ruíz,M,7,9998,6,2015-12-23 00:00:00,2015-12-22 00:00:00,CO:19455,Miranda
